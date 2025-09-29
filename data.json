@@ -1,0 +1,3532 @@
+{
+  "word_details": [
+    {
+      "id": 1,
+      "word": "the",
+      "persian_translate": "حرف تعریف معین",
+      "sentence": "The dog is playing in the park.",
+      "persian_sentence_translate": "سگ در حال بازی در پارک است."
+    },
+    {
+      "id": 2,
+      "word": "be",
+      "persian_translate": "بودن",
+      "sentence": "I want to be on time.",
+      "persian_sentence_translate": "من می‌خواهم به موقع باشم."
+    },
+    {
+      "id": 3,
+      "word": "and",
+      "persian_translate": "و",
+      "sentence": "We need milk and eggs.",
+      "persian_sentence_translate": "ما به شیر و تخم مرغ نیاز داریم."
+    },
+    {
+      "id": 4,
+      "word": "of",
+      "persian_translate": "از، متعلق به",
+      "sentence": "This is the end of the road.",
+      "persian_sentence_translate": "این انتهای جاده است."
+    },
+    {
+      "id": 5,
+      "word": "to",
+      "persian_translate": "به، برای",
+      "sentence": "I am going to the library.",
+      "persian_sentence_translate": "من دارم به کتابخانه می‌روم."
+    },
+    {
+      "id": 6,
+      "word": "a",
+      "persian_translate": "یک (حرف تعریف نامعین)",
+      "sentence": "I saw a beautiful flower.",
+      "persian_sentence_translate": "من یک گل زیبا دیدم."
+    },
+    {
+      "id": 7,
+      "word": "in",
+      "persian_translate": "در",
+      "sentence": "She lives in London.",
+      "persian_sentence_translate": "او در لندن زندگی می‌کند."
+    },
+    {
+      "id": 8,
+      "word": "have",
+      "persian_translate": "داشتن",
+      "sentence": "Do you have any plans for today?",
+      "persian_sentence_translate": "آیا برای امروز برنامه‌ای دارید؟"
+    },
+    {
+      "id": 9,
+      "word": "it",
+      "persian_translate": "آن",
+      "sentence": "It is getting late.",
+      "persian_sentence_translate": "دیر شده است."
+    },
+    {
+      "id": 10,
+      "word": "you",
+      "persian_translate": "تو، شما",
+      "sentence": "Can you help me with this?",
+      "persian_sentence_translate": "آیا می‌توانید در این مورد به من کمک کنید؟"
+    },
+    {
+      "id": 11,
+      "word": "he",
+      "persian_translate": "او (مذکر)",
+      "sentence": "He arrived five minutes ago.",
+      "persian_sentence_translate": "او پنج دقیقه پیش رسید."
+    },
+    {
+      "id": 12,
+      "word": "for",
+      "persian_translate": "برای",
+      "sentence": "We waited for hours.",
+      "persian_sentence_translate": "ما ساعت‌ها منتظر ماندیم."
+    },
+    {
+      "id": 13,
+      "word": "they",
+      "persian_translate": "آنها",
+      "sentence": "They are going on holiday next week.",
+      "persian_sentence_translate": "آنها هفته آینده به تعطیلات می‌روند."
+    },
+    {
+      "id": 14,
+      "word": "not",
+      "persian_translate": "نه",
+      "sentence": "I do not understand the question.",
+      "persian_sentence_translate": "من سؤال را متوجه نمی‌شوم."
+    },
+    {
+      "id": 15,
+      "word": "that",
+      "persian_translate": "آن",
+      "sentence": "I think that is a good idea.",
+      "persian_sentence_translate": "فکر می‌کنم آن ایده خوبی است."
+    },
+    {
+      "id": 16,
+      "word": "we",
+      "persian_translate": "ما",
+      "sentence": "We are a team.",
+      "persian_sentence_translate": "ما یک تیم هستیم."
+    },
+    {
+      "id": 17,
+      "word": "on",
+      "persian_translate": "بر روی",
+      "sentence": "The book is on the top shelf.",
+      "persian_sentence_translate": "کتاب بر روی قفسه بالایی است."
+    },
+    {
+      "id": 18,
+      "word": "with",
+      "persian_translate": "با",
+      "sentence": "I am traveling with my family.",
+      "persian_sentence_translate": "من با خانواده‌ام سفر می‌کنم."
+    },
+    {
+      "id": 19,
+      "word": "this",
+      "persian_translate": "این",
+      "sentence": "I like this new shirt.",
+      "persian_sentence_translate": "من این پیراهن جدید را دوست دارم."
+    },
+    {
+      "id": 20,
+      "word": "I",
+      "persian_translate": "من",
+      "sentence": "I will call you later.",
+      "persian_sentence_translate": "من بعداً با شما تماس خواهم گرفت."
+    },
+    {
+      "id": 21,
+      "word": "do",
+      "persian_translate": "انجام دادن",
+      "sentence": "Please do your homework.",
+      "persian_sentence_translate": "لطفاً تکالیف خود را انجام دهید."
+    },
+    {
+      "id": 22,
+      "word": "as",
+      "persian_translate": "همانطور که، به عنوان",
+      "sentence": "He is as tall as his father.",
+      "persian_sentence_translate": "او به اندازه پدرش قد بلند است."
+    },
+    {
+      "id": 23,
+      "word": "at",
+      "persian_translate": "در (یک نقطه)",
+      "sentence": "She arrived at the airport.",
+      "persian_sentence_translate": "او به فرودگاه رسید."
+    },
+    {
+      "id": 24,
+      "word": "she",
+      "persian_translate": "او (مونث)",
+      "sentence": "She works in a big company.",
+      "persian_sentence_translate": "او در یک شرکت بزرگ کار می‌کند."
+    },
+    {
+      "id": 25,
+      "word": "but",
+      "persian_translate": "اما",
+      "sentence": "I wanted to go, but I was too tired.",
+      "persian_sentence_translate": "من می‌خواستم بروم، اما خیلی خسته بودم."
+    },
+    {
+      "id": 26,
+      "word": "from",
+      "persian_translate": "از",
+      "sentence": "Where are you from?",
+      "persian_sentence_translate": "شما اهل کجا هستید؟"
+    },
+    {
+      "id": 27,
+      "word": "by",
+      "persian_translate": "توسط",
+      "sentence": "The book was written by a famous author.",
+      "persian_sentence_translate": "کتاب توسط یک نویسنده معروف نوشته شده بود."
+    },
+    {
+      "id": 28,
+      "word": "will",
+      "persian_translate": "خواهد (برای آینده)",
+      "sentence": "I will meet you tomorrow.",
+      "persian_sentence_translate": "من فردا شما را خواهم دید."
+    },
+    {
+      "id": 29,
+      "word": "or",
+      "persian_translate": "یا",
+      "sentence": "Do you want coffee or tea?",
+      "persian_sentence_translate": "قهوه می‌خواهید یا چای؟"
+    },
+    {
+      "id": 30,
+      "word": "say",
+      "persian_translate": "گفتن",
+      "sentence": "What did you say?",
+      "persian_sentence_translate": "چه گفتی؟"
+    },
+    {
+      "id": 31,
+      "word": "go",
+      "persian_translate": "رفتن",
+      "sentence": "Let's go to the beach.",
+      "persian_sentence_translate": "بیا به ساحل برویم."
+    },
+    {
+      "id": 32,
+      "word": "so",
+      "persian_translate": "بنابراین، پس",
+      "sentence": "It was cold, so I closed the window.",
+      "persian_sentence_translate": "هوا سرد بود، بنابراین پنجره را بستم."
+    },
+    {
+      "id": 33,
+      "word": "all",
+      "persian_translate": "همه",
+      "sentence": "All the students passed the test.",
+      "persian_sentence_translate": "همه دانش‌آموزان در امتحان قبول شدند."
+    },
+    {
+      "id": 34,
+      "word": "if",
+      "persian_translate": "اگر",
+      "sentence": "If you are ready, we can start.",
+      "persian_sentence_translate": "اگر آماده‌اید، می‌توانیم شروع کنیم."
+    },
+    {
+      "id": 35,
+      "word": "one",
+      "persian_translate": "یک",
+      "sentence": "I only have one apple left.",
+      "persian_sentence_translate": "من فقط یک سیب باقی مانده دارم."
+    },
+    {
+      "id": 36,
+      "word": "what",
+      "persian_translate": "چه",
+      "sentence": "What is your favorite color?",
+      "persian_sentence_translate": "رنگ مورد علاقه شما چیست؟"
+    },
+    {
+      "id": 37,
+      "word": "there",
+      "persian_translate": "آنجا",
+      "sentence": "I left my bag over there.",
+      "persian_sentence_translate": "من کیفم را آنجا گذاشتم."
+    },
+    {
+      "id": 38,
+      "word": "her",
+      "persian_translate": "او (مونث)، مال او",
+      "sentence": "This is her new car.",
+      "persian_sentence_translate": "این ماشین جدید اوست."
+    },
+    {
+      "id": 39,
+      "word": "would",
+      "persian_translate": "می‌خواست (شرطی)",
+      "sentence": "I would like a glass of water.",
+      "persian_sentence_translate": "من یک لیوان آب می‌خواستم."
+    },
+    {
+      "id": 40,
+      "word": "make",
+      "persian_translate": "ساختن",
+      "sentence": "Can you make a cake?",
+      "persian_sentence_translate": "آیا می‌توانید یک کیک درست کنید؟"
+    },
+    {
+      "id": 41,
+      "word": "about",
+      "persian_translate": "در مورد",
+      "sentence": "Tell me about your trip.",
+      "persian_sentence_translate": "در مورد سفرت به من بگو."
+    },
+    {
+      "id": 42,
+      "word": "who",
+      "persian_translate": "کی",
+      "sentence": "Who is coming to dinner?",
+      "persian_sentence_translate": "کی برای شام می‌آید؟"
+    },
+    {
+      "id": 43,
+      "word": "get",
+      "persian_translate": "گرفتن، دریافت کردن",
+      "sentence": "Did you get the email?",
+      "persian_sentence_translate": "آیا ایمیل را دریافت کردید؟"
+    },
+    {
+      "id": 44,
+      "word": "which",
+      "persian_translate": "کدام",
+      "sentence": "Which color do you prefer?",
+      "persian_sentence_translate": "کدام رنگ را ترجیح می‌دهید؟"
+    },
+    {
+      "id": 45,
+      "word": "when",
+      "persian_translate": "کی",
+      "sentence": "When did you arrive?",
+      "persian_sentence_translate": "کی رسیدید؟"
+    },
+    {
+      "id": 46,
+      "word": "can",
+      "persian_translate": "توانستن",
+      "sentence": "I can swim very well.",
+      "persian_sentence_translate": "من می‌توانم خیلی خوب شنا کنم."
+    },
+    {
+      "id": 47,
+      "word": "more",
+      "persian_translate": "بیشتر",
+      "sentence": "I need more time to finish.",
+      "persian_sentence_translate": "من برای تمام کردن به زمان بیشتری نیاز دارم."
+    },
+    {
+      "id": 48,
+      "word": "no",
+      "persian_translate": "نه، بدون",
+      "sentence": "There is no sugar in my coffee.",
+      "persian_sentence_translate": "هیچ شکری در قهوه من نیست."
+    },
+    {
+      "id": 49,
+      "word": "out",
+      "persian_translate": "بیرون",
+      "sentence": "Let's go out tonight.",
+      "persian_sentence_translate": "بیا امشب برویم بیرون."
+    },
+    {
+      "id": 50,
+      "word": "up",
+      "persian_translate": "بالا",
+      "sentence": "Please stand up.",
+      "persian_sentence_translate": "لطفاً بلند شوید (بایستید)."
+    },
+    {
+      "id": 51,
+      "word": "other",
+      "persian_translate": "دیگر",
+      "sentence": "I have no other option.",
+      "persian_sentence_translate": "من گزینه دیگری ندارم."
+    },
+    {
+      "id": 52,
+      "word": "time",
+      "persian_translate": "زمان",
+      "sentence": "What time is it?",
+      "persian_sentence_translate": "ساعت چند است؟"
+    },
+    {
+      "id": 53,
+      "word": "then",
+      "persian_translate": "سپس",
+      "sentence": "First we eat, then we go.",
+      "persian_sentence_translate": "اول غذا می‌خوریم، سپس می‌رویم."
+    },
+    {
+      "id": 54,
+      "word": "some",
+      "persian_translate": "بعضی",
+      "sentence": "I bought some new clothes.",
+      "persian_sentence_translate": "من چند لباس جدید خریدم."
+    },
+    {
+      "id": 55,
+      "word": "could",
+      "persian_translate": "می‌توانست",
+      "sentence": "I could not find my keys.",
+      "persian_sentence_translate": "من نمی‌توانستم کلیدهایم را پیدا کنم."
+    },
+    {
+      "id": 56,
+      "word": "them",
+      "persian_translate": "آنها (مفعولی)",
+      "sentence": "Give them the message.",
+      "persian_sentence_translate": "پیام را به آنها بده."
+    },
+    {
+      "id": 57,
+      "word": "its",
+      "persian_translate": "مال آن",
+      "sentence": "The tree lost its leaves in autumn.",
+      "persian_sentence_translate": "درخت برگ‌هایش را در پاییز از دست داد."
+    },
+    {
+      "id": 58,
+      "word": "these",
+      "persian_translate": "اینها (جمع)",
+      "sentence": "These shoes are very comfortable.",
+      "persian_sentence_translate": "این کفش‌ها خیلی راحت هستند."
+    },
+    {
+      "id": 59,
+      "word": "my",
+      "persian_translate": "مال من",
+      "sentence": "This is my house.",
+      "persian_sentence_translate": "این خانه من است."
+    },
+    {
+      "id": 60,
+      "word": "than",
+      "persian_translate": "از (برای مقایسه)",
+      "sentence": "She is taller than her brother.",
+      "persian_sentence_translate": "او از برادرش بلندتر است."
+    },
+    {
+      "id": 61,
+      "word": "like",
+      "persian_translate": "دوست داشتن، مانند",
+      "sentence": "I like to read books.",
+      "persian_sentence_translate": "من دوست دارم کتاب بخوانم."
+    },
+    {
+      "id": 62,
+      "word": "only",
+      "persian_translate": "فقط",
+      "sentence": "I have only five dollars.",
+      "persian_sentence_translate": "من فقط پنج دلار دارم."
+    },
+    {
+      "id": 63,
+      "word": "their",
+      "persian_translate": "مال آنها",
+      "sentence": "This is their responsibility.",
+      "persian_sentence_translate": "این مسئولیت آنهاست."
+    },
+    {
+      "id": 64,
+      "word": "see",
+      "persian_translate": "دیدن",
+      "sentence": "Did you see the movie?",
+      "persian_sentence_translate": "آیا فیلم را دیدی؟"
+    },
+    {
+      "id": 65,
+      "word": "back",
+      "persian_translate": "پشت، برگشتن",
+      "sentence": "I will be back in an hour.",
+      "persian_sentence_translate": "من تا یک ساعت دیگر برمی‌گردم."
+    },
+    {
+      "id": 66,
+      "word": "into",
+      "persian_translate": "به داخل",
+      "sentence": "He walked into the room.",
+      "persian_sentence_translate": "او به داخل اتاق راه رفت."
+    },
+    {
+      "id": 67,
+      "word": "two",
+      "persian_translate": "دو",
+      "sentence": "I have two sisters.",
+      "persian_sentence_translate": "من دو خواهر دارم."
+    },
+    {
+      "id": 68,
+      "word": "how",
+      "persian_translate": "چگونه",
+      "sentence": "How do you spell that word?",
+      "persian_sentence_translate": "چگونه آن کلمه را هجی می‌کنید؟"
+    },
+    {
+      "id": 69,
+      "word": "our",
+      "persian_translate": "مال ما",
+      "sentence": "This is our new project.",
+      "persian_sentence_translate": "این پروژه جدید ماست."
+    },
+    {
+      "id": 70,
+      "word": "first",
+      "persian_translate": "اول",
+      "sentence": "He was the first person to arrive.",
+      "persian_sentence_translate": "او اولین نفری بود که رسید."
+    },
+    {
+      "id": 71,
+      "word": "way",
+      "persian_translate": "راه، روش",
+      "sentence": "Which way is the station?",
+      "persian_sentence_translate": "ایستگاه از کدام طرف است؟"
+    },
+    {
+      "id": 72,
+      "word": "new",
+      "persian_translate": "جدید",
+      "sentence": "They bought a new television.",
+      "persian_sentence_translate": "آنها یک تلویزیون جدید خریدند."
+    },
+    {
+      "id": 73,
+      "word": "think",
+      "persian_translate": "فکر کردن",
+      "sentence": "What do you think about the plan?",
+      "persian_sentence_translate": "در مورد این برنامه چه فکر می‌کنید؟"
+    },
+    {
+      "id": 74,
+      "word": "may",
+      "persian_translate": "ممکن است، شاید",
+      "sentence": "It may rain tomorrow.",
+      "persian_sentence_translate": "ممکن است فردا باران ببارد."
+    },
+    {
+      "id": 75,
+      "word": "now",
+      "persian_translate": "اکنون",
+      "sentence": "We should leave now.",
+      "persian_sentence_translate": "ما باید اکنون برویم."
+    },
+    {
+      "id": 76,
+      "word": "such",
+      "persian_translate": "چنین",
+      "sentence": "I have never seen such a big house.",
+      "persian_sentence_translate": "من هرگز چنین خانه بزرگی ندیده‌ام."
+    },
+    {
+      "id": 77,
+      "word": "give",
+      "persian_translate": "دادن",
+      "sentence": "Can you give me a hand?",
+      "persian_sentence_translate": "می‌توانید به من کمک کنید؟ (دسترسانید)"
+    },
+    {
+      "id": 78,
+      "word": "over",
+      "persian_translate": "روی، بیش از",
+      "sentence": "The plane flew over the city.",
+      "persian_sentence_translate": "هواپیما از روی شهر پرواز کرد."
+    },
+    {
+      "id": 79,
+      "word": "after",
+      "persian_translate": "بعد از",
+      "sentence": "I will call you after lunch.",
+      "persian_sentence_translate": "بعد از ناهار با شما تماس خواهم گرفت."
+    },
+    {
+      "id": 80,
+      "word": "also",
+      "persian_translate": "همچنین",
+      "sentence": "She also speaks French.",
+      "persian_sentence_translate": "او همچنین فرانسوی صحبت می‌کند."
+    },
+    {
+      "id": 81,
+      "word": "many",
+      "persian_translate": "بسیاری",
+      "sentence": "There are many people here.",
+      "persian_sentence_translate": "بسیاری از مردم اینجا هستند."
+    },
+    {
+      "id": 82,
+      "word": "well",
+      "persian_translate": "خوب",
+      "sentence": "He plays the piano very well.",
+      "persian_sentence_translate": "او پیانو را خیلی خوب می‌نوازد."
+    },
+    {
+      "id": 83,
+      "word": "where",
+      "persian_translate": "کجا",
+      "sentence": "Where do you live?",
+      "persian_sentence_translate": "کجا زندگی می‌کنید؟"
+    },
+    {
+      "id": 84,
+      "word": "through",
+      "persian_translate": "از طریق",
+      "sentence": "The path goes through the forest.",
+      "persian_sentence_translate": "مسیر از طریق جنگل می‌گذرد."
+    },
+    {
+      "id": 85,
+      "word": "much",
+      "persian_translate": "بسیار",
+      "sentence": "Thank you very much.",
+      "persian_sentence_translate": "از شما بسیار سپاسگزارم."
+    },
+    {
+      "id": 86,
+      "word": "before",
+      "persian_translate": "قبل از",
+      "sentence": "Wash your hands before eating.",
+      "persian_sentence_translate": "قبل از خوردن دست‌های خود را بشویید."
+    },
+    {
+      "id": 87,
+      "word": "here",
+      "persian_translate": "اینجا",
+      "sentence": "I love living here.",
+      "persian_sentence_translate": "من زندگی کردن اینجا را دوست دارم."
+    },
+    {
+      "id": 88,
+      "word": "your",
+      "persian_translate": "مال شما",
+      "sentence": "Is this your umbrella?",
+      "persian_sentence_translate": "آیا این چتر شماست؟"
+    },
+    {
+      "id": 89,
+      "word": "each",
+      "persian_translate": "هر کدام",
+      "sentence": "Each student received a book.",
+      "persian_sentence_translate": "هر کدام از دانش‌آموزان یک کتاب دریافت کرد."
+    },
+    {
+      "id": 90,
+      "word": "should",
+      "persian_translate": "باید",
+      "sentence": "You should see a doctor.",
+      "persian_sentence_translate": "شما باید به پزشک مراجعه کنید."
+    },
+    {
+      "id": 91,
+      "word": "because",
+      "persian_translate": "زیرا",
+      "sentence": "I stayed home because I was sick.",
+      "persian_sentence_translate": "من در خانه ماندم زیرا بیمار بودم."
+    },
+    {
+      "id": 92,
+      "word": "just",
+      "persian_translate": "فقط، همین الان",
+      "sentence": "I just finished my work.",
+      "persian_sentence_translate": "من همین الان کارم را تمام کردم."
+    },
+    {
+      "id": 93,
+      "word": "those",
+      "persian_translate": "آنها (جمع)",
+      "sentence": "Those cars are very fast.",
+      "persian_sentence_translate": "آن ماشین‌ها خیلی سریع هستند."
+    },
+    {
+      "id": 94,
+      "word": "people",
+      "persian_translate": "مردم",
+      "sentence": "Many people attended the concert.",
+      "persian_sentence_translate": "افراد زیادی در کنسرت شرکت کردند."
+    },
+    {
+      "id": 95,
+      "word": "too",
+      "persian_translate": "بیش از حد، نیز",
+      "sentence": "It is too hot to go outside.",
+      "persian_sentence_translate": "هوا برای بیرون رفتن بیش از حد گرم است."
+    },
+    {
+      "id": 96,
+      "word": "very",
+      "persian_translate": "بسیار",
+      "sentence": "She is a very talented singer.",
+      "persian_sentence_translate": "او یک خواننده بسیار با استعداد است."
+    },
+    {
+      "id": 97,
+      "word": "any",
+      "persian_translate": "هر، هیچ",
+      "sentence": "Do you have any spare time?",
+      "persian_sentence_translate": "آیا وقت آزاد دارید؟"
+    },
+    {
+      "id": 98,
+      "word": "child",
+      "persian_translate": "کودک",
+      "sentence": "Every child deserves a good education.",
+      "persian_sentence_translate": "هر کودکی سزاوار یک آموزش خوب است."
+    },
+    {
+      "id": 99,
+      "word": "find",
+      "persian_translate": "پیدا کردن",
+      "sentence": "I hope you find your lost keys.",
+      "persian_sentence_translate": "امیدوارم کلیدهای گم شده خود را پیدا کنید."
+    },
+    {
+      "id": 100,
+      "word": "work",
+      "persian_translate": "کار",
+      "sentence": "I have a lot of work to finish today.",
+      "persian_sentence_translate": "من امروز کار زیادی برای تمام کردن دارم."
+    },
+    {
+      "id": 101,
+      "word": "down",
+      "persian_translate": "پایین",
+      "sentence": "We walked down the street.",
+      "persian_sentence_translate": "ما در خیابان به سمت پایین قدم زدیم."
+    },
+    {
+      "id": 102,
+      "word": "day",
+      "persian_translate": "روز",
+      "sentence": "Have a nice day!",
+      "persian_sentence_translate": "روز خوبی داشته باشید!"
+    },
+    {
+      "id": 103,
+      "word": "even",
+      "persian_translate": "حتی",
+      "sentence": "She did not even say goodbye.",
+      "persian_sentence_translate": "او حتی خداحافظی هم نکرد."
+    },
+    {
+      "id": 104,
+      "word": "most",
+      "persian_translate": "بیشترین",
+      "sentence": "Most of the people agreed with the decision.",
+      "persian_sentence_translate": "بیشتر مردم با این تصمیم موافق بودند."
+    },
+    {
+      "id": 105,
+      "word": "after",
+      "persian_translate": "بعد",
+      "sentence": "The concert finished after midnight.",
+      "persian_sentence_translate": "کنسرت بعد از نیمه شب تمام شد."
+    },
+    {
+      "id": 106,
+      "word": "never",
+      "persian_translate": "هرگز",
+      "sentence": "I will never forget this day.",
+      "persian_sentence_translate": "من هرگز این روز را فراموش نخواهم کرد."
+    },
+    {
+      "id": 107,
+      "word": "between",
+      "persian_translate": "بین",
+      "sentence": "The store is between the bank and the cafe.",
+      "persian_sentence_translate": "فروشگاه بین بانک و کافه است."
+    },
+    {
+      "id": 108,
+      "word": "high",
+      "persian_translate": "بلند",
+      "sentence": "The mountains are very high.",
+      "persian_sentence_translate": "کوه‌ها بسیار بلند هستند."
+    },
+    {
+      "id": 109,
+      "word": "really",
+      "persian_translate": "واقعا",
+      "sentence": "I really appreciate your help.",
+      "persian_sentence_translate": "من واقعاً از کمک شما قدردانی می‌کنم."
+    },
+    {
+      "id": 110,
+      "word": "something",
+      "persian_translate": "چیزی",
+      "sentence": "I have something important to tell you.",
+      "persian_sentence_translate": "من چیز مهمی دارم که باید به شما بگویم."
+    },
+    {
+      "id": 111,
+      "word": "another",
+      "persian_translate": "یکی دیگر",
+      "sentence": "Can I have another cup of coffee?",
+      "persian_sentence_translate": "آیا می‌توانم یک فنجان قهوه دیگر داشته باشم؟"
+    },
+    {
+      "id": 112,
+      "word": "know",
+      "persian_translate": "دانستن",
+      "sentence": "Do you know the answer?",
+      "persian_sentence_translate": "آیا پاسخ را می‌دانید؟"
+    },
+    {
+      "id": 113,
+      "word": "change",
+      "persian_translate": "تغییر",
+      "sentence": "We need to make a change to the schedule.",
+      "persian_sentence_translate": "ما باید در برنامه زمان‌بندی یک تغییر ایجاد کنیم."
+    },
+    {
+      "id": 114,
+      "word": "only",
+      "persian_translate": "فقط",
+      "sentence": "This ticket is valid for one day only.",
+      "persian_sentence_translate": "این بلیط فقط برای یک روز معتبر است."
+    },
+    {
+      "id": 115,
+      "word": "around",
+      "persian_translate": "دور",
+      "sentence": "The children gathered around the teacher.",
+      "persian_sentence_translate": "بچه‌ها دور معلم جمع شدند."
+    },
+    {
+      "id": 116,
+      "word": "mean",
+      "persian_translate": "معنی دادن",
+      "sentence": "What does this word mean?",
+      "persian_sentence_translate": "این کلمه چه معنی می‌دهد؟"
+    },
+    {
+      "id": 117,
+      "word": "old",
+      "persian_translate": "قدیمی",
+      "sentence": "I live in a very old building.",
+      "persian_sentence_translate": "من در یک ساختمان بسیار قدیمی زندگی می‌کنم."
+    },
+    {
+      "id": 118,
+      "word": "right",
+      "persian_translate": "راست، درست",
+      "sentence": "Turn right at the next corner.",
+      "persian_sentence_translate": "در پیچ بعدی به سمت راست بپیچید."
+    },
+    {
+      "id": 119,
+      "word": "big",
+      "persian_translate": "بزرگ",
+      "sentence": "They bought a big new television.",
+      "persian_sentence_translate": "آنها یک تلویزیون بزرگ جدید خریدند."
+    },
+    {
+      "id": 120,
+      "word": "little",
+      "persian_translate": "کوچک",
+      "sentence": "She has a little dog.",
+      "persian_sentence_translate": "او یک سگ کوچک دارد."
+    },
+    {
+      "id": 121,
+      "word": "use",
+      "persian_translate": "استفاده",
+      "sentence": "What is the use of this tool?",
+      "persian_sentence_translate": "استفاده از این ابزار چیست؟"
+    },
+    {
+      "id": 122,
+      "word": "house",
+      "persian_translate": "خانه",
+      "sentence": "They are moving to a new house.",
+      "persian_sentence_translate": "آنها در حال نقل مکان به یک خانه جدید هستند."
+    },
+    {
+      "id": 123,
+      "word": "find",
+      "persian_translate": "پیدا کردن",
+      "sentence": "I need to find my glasses.",
+      "persian_sentence_translate": "من باید عینکم را پیدا کنم."
+    },
+    {
+      "id": 124,
+      "word": "here",
+      "persian_translate": "اینجا",
+      "sentence": "Come over here and sit down.",
+      "persian_sentence_translate": "بیا اینجا و بنشین."
+    },
+    {
+      "id": 125,
+      "word": "why",
+      "persian_translate": "چرا",
+      "sentence": "Why are you leaving so soon?",
+      "persian_sentence_translate": "چرا اینقدر زود می‌روید؟"
+    },
+    {
+      "id": 126,
+      "word": "ask",
+      "persian_translate": "پرسیدن",
+      "sentence": "I need to ask you a question.",
+      "persian_sentence_translate": "من باید یک سؤال از شما بپرسم."
+    },
+    {
+      "id": 127,
+      "word": "men",
+      "persian_translate": "مردان",
+      "sentence": "The men worked hard on the farm.",
+      "persian_sentence_translate": "مردان سخت در مزرعه کار کردند."
+    },
+    {
+      "id": 128,
+      "word": "woman",
+      "persian_translate": "زن",
+      "sentence": "The woman bought a beautiful dress.",
+      "persian_sentence_translate": "آن زن یک لباس زیبا خرید."
+    },
+    {
+      "id": 129,
+      "word": "over",
+      "persian_translate": "بر روی",
+      "sentence": "She threw the ball over the fence.",
+      "persian_sentence_translate": "او توپ را از روی حصار پرتاب کرد."
+    },
+    {
+      "id": 130,
+      "word": "seem",
+      "persian_translate": "به نظر رسیدن",
+      "sentence": "The problem seemed very difficult.",
+      "persian_sentence_translate": "مشکل خیلی دشوار به نظر می‌رسید."
+    },
+    {
+      "id": 131,
+      "word": "need",
+      "persian_translate": "نیاز",
+      "sentence": "There is no need to worry.",
+      "persian_sentence_translate": "نیازی به نگرانی نیست."
+    },
+    {
+      "id": 132,
+      "word": "help",
+      "persian_translate": "کمک",
+      "sentence": "I need your help with this box.",
+      "persian_sentence_translate": "من برای این جعبه به کمک شما نیاز دارم."
+    },
+    {
+      "id": 133,
+      "word": "want",
+      "persian_translate": "خواستن",
+      "sentence": "What do you want for your birthday?",
+      "persian_sentence_translate": "برای تولدت چه می‌خواهی؟"
+    },
+    {
+      "id": 134,
+      "word": "play",
+      "persian_translate": "بازی کردن",
+      "sentence": "The kids love to play outside.",
+      "persian_sentence_translate": "بچه‌ها دوست دارند بیرون بازی کنند."
+    },
+    {
+      "id": 135,
+      "word": "turn",
+      "persian_translate": "چرخیدن",
+      "sentence": "Turn off the light when you leave.",
+      "persian_sentence_translate": "وقتی می‌روید چراغ را خاموش کنید."
+    },
+    {
+      "id": 136,
+      "word": "few",
+      "persian_translate": "چند",
+      "sentence": "I have a few good friends.",
+      "persian_sentence_translate": "من چند دوست خوب دارم."
+    },
+    {
+      "id": 137,
+      "word": "group",
+      "persian_translate": "گروه",
+      "sentence": "We formed a study group.",
+      "persian_sentence_translate": "ما یک گروه مطالعاتی تشکیل دادیم."
+    },
+    {
+      "id": 138,
+      "word": "such",
+      "persian_translate": "چنین",
+      "sentence": "I've never seen such a beautiful sunset.",
+      "persian_sentence_translate": "من هرگز چنین غروب زیبایی ندیده‌ام."
+    },
+    {
+      "id": 139,
+      "word": "again",
+      "persian_translate": "دوباره",
+      "sentence": "Please try again.",
+      "persian_sentence_translate": "لطفاً دوباره تلاش کنید."
+    },
+    {
+      "id": 140,
+      "word": "case",
+      "persian_translate": "مورد",
+      "sentence": "This is a simple case to solve.",
+      "persian_sentence_translate": "این یک مورد ساده برای حل کردن است."
+    },
+    {
+      "id": 141,
+      "word": "world",
+      "persian_translate": "دنیا",
+      "sentence": "Travel the world and meet new people.",
+      "persian_sentence_translate": "به دنیا سفر کن و با مردم جدید آشنا شو."
+    },
+    {
+      "id": 142,
+      "word": "own",
+      "persian_translate": "مال خود",
+      "sentence": "She has her own business.",
+      "persian_sentence_translate": "او کسب و کار خودش را دارد."
+    },
+    {
+      "id": 143,
+      "word": "school",
+      "persian_translate": "مدرسه",
+      "sentence": "My children attend a public school.",
+      "persian_sentence_translate": "فرزندان من به یک مدرسه دولتی می‌روند."
+    },
+    {
+      "id": 144,
+      "word": "state",
+      "persian_translate": "حالت",
+      "sentence": "The state of the economy is improving.",
+      "persian_sentence_translate": "وضعیت (حالت) اقتصاد در حال بهبود است."
+    },
+    {
+      "id": 145,
+      "word": "system",
+      "persian_translate": "سیستم",
+      "sentence": "The security system is very advanced.",
+      "persian_sentence_translate": "سیستم امنیتی بسیار پیشرفته است."
+    },
+    {
+      "id": 146,
+      "word": "program",
+      "persian_translate": "برنامه",
+      "sentence": "We watched a new TV program.",
+      "persian_sentence_translate": "ما یک برنامه تلویزیونی جدید تماشا کردیم."
+    },
+    {
+      "id": 147,
+      "word": "try",
+      "persian_translate": "سعی کردن",
+      "sentence": "I will try my best to help.",
+      "persian_sentence_translate": "من تمام تلاشم را می‌کنم تا کمک کنم."
+    },
+    {
+      "id": 148,
+      "word": "problem",
+      "persian_translate": "مشکل",
+      "sentence": "We need to solve this problem quickly.",
+      "persian_sentence_translate": "ما باید این مشکل را سریع حل کنیم."
+    },
+    {
+      "id": 149,
+      "word": "every",
+      "persian_translate": "هر",
+      "sentence": "I go to the gym every day.",
+      "persian_sentence_translate": "من هر روز به باشگاه می‌روم."
+    },
+    {
+      "id": 150,
+      "word": "start",
+      "persian_translate": "شروع",
+      "sentence": "Let's start the presentation now.",
+      "persian_sentence_translate": "بیایید الان ارائه را شروع کنیم."
+    },
+    {
+      "id": 151,
+      "word": "put",
+      "persian_translate": "گذاشتن",
+      "sentence": "Put the books on the shelf.",
+      "persian_sentence_translate": "کتاب‌ها را روی قفسه بگذار."
+    },
+    {
+      "id": 152,
+      "word": "hand",
+      "persian_translate": "دست",
+      "sentence": "Please raise your hand if you know the answer.",
+      "persian_sentence_translate": "لطفاً اگر پاسخ را می‌دانید دست خود را بالا ببرید."
+    },
+    {
+      "id": 153,
+      "word": "might",
+      "persian_translate": "ممکن است",
+      "sentence": "He might be late for the meeting.",
+      "persian_sentence_translate": "ممکن است او برای جلسه دیر کند."
+    },
+    {
+      "id": 154,
+      "word": "part",
+      "persian_translate": "قسمت",
+      "sentence": "This is the most difficult part of the job.",
+      "persian_sentence_translate": "این سخت‌ترین قسمت از کار است."
+    },
+    {
+      "id": 155,
+      "word": "against",
+      "persian_translate": "علیه",
+      "sentence": "He voted against the new policy.",
+      "persian_sentence_translate": "او علیه سیاست جدید رأی داد."
+    },
+    {
+      "id": 156,
+      "word": "place",
+      "persian_translate": "مکان",
+      "sentence": "This is a beautiful place for a picnic.",
+      "persian_sentence_translate": "این یک مکان زیبا برای پیک نیک است."
+    },
+    {
+      "id": 157,
+      "word": "over",
+      "persian_translate": "بر روی",
+      "sentence": "We talked about the issue over coffee.",
+      "persian_sentence_translate": "ما در مورد مسئله بر سر قهوه صحبت کردیم."
+    },
+    {
+      "id": 158,
+      "word": "such",
+      "persian_translate": "چنین",
+      "sentence": "I've never seen such a mess.",
+      "persian_sentence_translate": "من هرگز چنین شلوغی ندیده‌ام."
+    },
+    {
+      "id": 159,
+      "word": "because",
+      "persian_translate": "زیرا",
+      "sentence": "She smiled because she was happy.",
+      "persian_sentence_translate": "او لبخند زد زیرا خوشحال بود."
+    },
+    {
+      "id": 160,
+      "word": "company",
+      "persian_translate": "شرکت",
+      "sentence": "He works for an international company.",
+      "persian_sentence_translate": "او برای یک شرکت بین المللی کار می‌کند."
+    },
+    {
+      "id": 161,
+      "word": "while",
+      "persian_translate": "در حالی که",
+      "sentence": "I listened to music while I was running.",
+      "persian_sentence_translate": "من در حالی که می‌دویدم به موسیقی گوش می‌دادم."
+    },
+    {
+      "id": 162,
+      "word": "week",
+      "persian_translate": "هفته",
+      "sentence": "I will see you next week.",
+      "persian_sentence_translate": "من هفته آینده شما را خواهم دید."
+    },
+    {
+      "id": 163,
+      "word": "however",
+      "persian_translate": "با این حال",
+      "sentence": "It was a difficult job; however, he succeeded.",
+      "persian_sentence_translate": "کار سختی بود؛ با این حال، او موفق شد."
+    },
+    {
+      "id": 164,
+      "word": "line",
+      "persian_translate": "خط",
+      "sentence": "Please stand in a straight line.",
+      "persian_sentence_translate": "لطفاً در یک خط مستقیم بایستید."
+    },
+    {
+      "id": 165,
+      "word": "much",
+      "persian_translate": "بسیار",
+      "sentence": "There is so much noise here.",
+      "persian_sentence_translate": "اینجا خیلی سر و صدا است."
+    },
+    {
+      "id": 166,
+      "word": "must",
+      "persian_translate": "باید",
+      "sentence": "You must wear a seatbelt.",
+      "persian_sentence_translate": "شما باید کمربند ایمنی ببندید."
+    },
+    {
+      "id": 167,
+      "word": "before",
+      "persian_translate": "قبل",
+      "sentence": "She arrived just before me.",
+      "persian_sentence_translate": "او درست قبل از من رسید."
+    },
+    {
+      "id": 168,
+      "word": "between",
+      "persian_translate": "بین",
+      "sentence": "There is a strong bond between them.",
+      "persian_sentence_translate": "یک پیوند قوی بین آنها وجود دارد."
+    },
+    {
+      "id": 169,
+      "word": "feel",
+      "persian_translate": "احساس کردن",
+      "sentence": "How do you feel today?",
+      "persian_sentence_translate": "امروز چه احساسی دارید؟"
+    },
+    {
+      "id": 170,
+      "word": "important",
+      "persian_translate": "مهم",
+      "sentence": "Health is the most important thing.",
+      "persian_sentence_translate": "سلامتی مهم‌ترین چیز است."
+    },
+    {
+      "id": 171,
+      "word": "mother",
+      "persian_translate": "مادر",
+      "sentence": "My mother baked a cake.",
+      "persian_sentence_translate": "مادرم یک کیک پخت."
+    },
+    {
+      "id": 172,
+      "word": "open",
+      "persian_translate": "باز",
+      "sentence": "The store is open until 9 PM.",
+      "persian_sentence_translate": "فروشگاه تا ساعت ۹ شب باز است."
+    },
+    {
+      "id": 173,
+      "word": "person",
+      "persian_translate": "شخص",
+      "sentence": "He is a very kind person.",
+      "persian_sentence_translate": "او یک شخص بسیار مهربان است."
+    },
+    {
+      "id": 174,
+      "word": "until",
+      "persian_translate": "تا",
+      "sentence": "We waited until midnight.",
+      "persian_sentence_translate": "ما تا نیمه شب منتظر ماندیم."
+    },
+    {
+      "id": 175,
+      "word": "power",
+      "persian_translate": "قدرت",
+      "sentence": "Knowledge is power.",
+      "persian_sentence_translate": "دانش قدرت است."
+    },
+    {
+      "id": 176,
+      "word": "run",
+      "persian_translate": "دویدن",
+      "sentence": "I like to run in the morning.",
+      "persian_sentence_translate": "من دوست دارم صبح بدوم."
+    },
+    {
+      "id": 177,
+      "word": "small",
+      "persian_translate": "کوچک",
+      "sentence": "The apartment is small but cozy.",
+      "persian_sentence_translate": "آپارتمان کوچک اما دنج است."
+    },
+    {
+      "id": 178,
+      "word": "under",
+      "persian_translate": "زیر",
+      "sentence": "The cat is hiding under the bed.",
+      "persian_sentence_translate": "گربه زیر تخت پنهان شده است."
+    },
+    {
+      "id": 179,
+      "word": "water",
+      "persian_translate": "آب",
+      "sentence": "I need a glass of water.",
+      "persian_sentence_translate": "من یک لیوان آب می‌خواهم."
+    },
+    {
+      "id": 180,
+      "word": "different",
+      "persian_translate": "متفاوت",
+      "sentence": "We have different opinions on this matter.",
+      "persian_sentence_translate": "ما نظرات متفاوتی در مورد این موضوع داریم."
+    },
+    {
+      "id": 181,
+      "word": "food",
+      "persian_translate": "غذا",
+      "sentence": "What is your favorite food?",
+      "persian_sentence_translate": "غذای مورد علاقه شما چیست؟"
+    },
+    {
+      "id": 182,
+      "word": "keep",
+      "persian_translate": "نگه داشتن",
+      "sentence": "Keep the change.",
+      "persian_sentence_translate": "بقیه پول را نگه دار."
+    },
+    {
+      "id": 183,
+      "word": "eye",
+      "persian_translate": "چشم",
+      "sentence": "She has beautiful green eyes.",
+      "persian_sentence_translate": "او چشمان سبز زیبایی دارد."
+    },
+    {
+      "id": 184,
+      "word": "family",
+      "persian_translate": "خانواده",
+      "sentence": "I live with my family.",
+      "persian_sentence_translate": "من با خانواده‌ام زندگی می‌کنم."
+    },
+    {
+      "id": 185,
+      "word": "father",
+      "persian_translate": "پدر",
+      "sentence": "My father is a very busy man.",
+      "persian_sentence_translate": "پدر من مرد بسیار پرمشغله‌ای است."
+    },
+    {
+      "id": 186,
+      "word": "head",
+      "persian_translate": "سر",
+      "sentence": "She nodded her head in agreement.",
+      "persian_sentence_translate": "او سرش را به نشانه موافقت تکان داد."
+    },
+    {
+      "id": 187,
+      "word": "home",
+      "persian_translate": "خانه",
+      "sentence": "I feel safe when I am home.",
+      "persian_sentence_translate": "وقتی در خانه هستم احساس امنیت می‌کنم."
+    },
+    {
+      "id": 188,
+      "word": "information",
+      "persian_translate": "اطلاعات",
+      "sentence": "I need more information about the course.",
+      "persian_sentence_translate": "من به اطلاعات بیشتری در مورد این دوره نیاز دارم."
+    },
+    {
+      "id": 189,
+      "word": "minute",
+      "persian_translate": "دقیقه",
+      "sentence": "The train will arrive in five minutes.",
+      "persian_sentence_translate": "قطار ظرف پنج دقیقه خواهد رسید."
+    },
+    {
+      "id": 190,
+      "word": "money",
+      "persian_translate": "پول",
+      "sentence": "I don't have enough money for this.",
+      "persian_sentence_translate": "من به اندازه کافی برای این پول ندارم."
+    },
+    {
+      "id": 191,
+      "word": "morning",
+      "persian_translate": "صبح",
+      "sentence": "I wake up early every morning.",
+      "persian_sentence_translate": "من هر صبح زود بیدار می‌شوم."
+    },
+    {
+      "id": 192,
+      "word": "music",
+      "persian_translate": "موسیقی",
+      "sentence": "I love listening to classical music.",
+      "persian_sentence_translate": "من عاشق گوش دادن به موسیقی کلاسیک هستم."
+    },
+    {
+      "id": 193,
+      "word": "night",
+      "persian_translate": "شب",
+      "sentence": "It gets very cold at night.",
+      "persian_sentence_translate": "شب‌ها خیلی سرد می‌شود."
+    },
+    {
+      "id": 194,
+      "word": "number",
+      "persian_translate": "عدد",
+      "sentence": "What is your phone number?",
+      "persian_sentence_translate": "شماره تلفن شما چیست؟"
+    },
+    {
+      "id": 195,
+      "word": "outside",
+      "persian_translate": "بیرون",
+      "sentence": "It is raining heavily outside.",
+      "persian_sentence_translate": "بیرون باران شدیدی می‌بارد."
+    },
+    {
+      "id": 196,
+      "word": "people",
+      "persian_translate": "مردم",
+      "sentence": "Many people gathered in the square.",
+      "persian_sentence_translate": "مردم زیادی در میدان جمع شدند."
+    },
+    {
+      "id": 197,
+      "word": "picture",
+      "persian_translate": "عکس",
+      "sentence": "Did you see the picture I sent?",
+      "persian_sentence_translate": "آیا عکسی را که فرستادم دیدید؟"
+    },
+    {
+      "id": 198,
+      "word": "room",
+      "persian_translate": "اتاق",
+      "sentence": "I need to clean my room.",
+      "persian_sentence_translate": "من باید اتاقم را تمیز کنم."
+    },
+    {
+      "id": 199,
+      "word": "school",
+      "persian_translate": "مدرسه",
+      "sentence": "She finishes school at 3 PM.",
+      "persian_sentence_translate": "او ساعت ۳ بعد از ظهر مدرسه‌اش تمام می‌شود."
+    },
+    {
+      "id": 200,
+      "word": "show",
+      "persian_translate": "نشان دادن",
+      "sentence": "Can you show me your new watch?",
+      "persian_sentence_translate": "می‌توانید ساعت جدیدتان را به من نشان دهید؟"
+    },
+    {
+      "id": 201,
+      "word": "story",
+      "persian_translate": "داستان",
+      "sentence": "Tell me a bedtime story.",
+      "persian_sentence_translate": "برایم یک داستان قبل از خواب بگو."
+    },
+    {
+      "id": 202,
+      "word": "student",
+      "persian_translate": "دانش آموز",
+      "sentence": "She is a good student.",
+      "persian_sentence_translate": "او یک دانش‌آموز خوب است."
+    },
+    {
+      "id": 203,
+      "word": "study",
+      "persian_translate": "مطالعه",
+      "sentence": "I study history at university.",
+      "persian_sentence_translate": "من در دانشگاه تاریخ مطالعه می‌کنم."
+    },
+    {
+      "id": 204,
+      "word": "thing",
+      "persian_translate": "چیز",
+      "sentence": "What is that thing on the wall?",
+      "persian_sentence_translate": "آن چیز روی دیوار چیست؟"
+    },
+    {
+      "id": 205,
+      "word": "time",
+      "persian_translate": "زمان",
+      "sentence": "We don't have much time left.",
+      "persian_sentence_translate": "ما زمان زیادی برایمان باقی نمانده است."
+    },
+    {
+      "id": 206,
+      "word": "water",
+      "persian_translate": "آب",
+      "sentence": "Drink plenty of water every day.",
+      "persian_sentence_translate": "هر روز آب فراوان بنوشید."
+    },
+    {
+      "id": 207,
+      "word": "way",
+      "persian_translate": "راه",
+      "sentence": "This is the fastest way to the city center.",
+      "persian_sentence_translate": "این سریع‌ترین راه به مرکز شهر است."
+    },
+    {
+      "id": 208,
+      "word": "word",
+      "persian_translate": "کلمه",
+      "sentence": "Can you spell that word for me?",
+      "persian_sentence_translate": "آیا می‌توانید آن کلمه را برایم هجی کنید؟"
+    },
+    {
+      "id": 209,
+      "word": "work",
+      "persian_translate": "کار",
+      "sentence": "I enjoy my work as a writer.",
+      "persian_sentence_translate": "من از کارم به عنوان نویسنده لذت می‌برم."
+    },
+    {
+      "id": 210,
+      "word": "world",
+      "persian_translate": "دنیا",
+      "sentence": "It's a small world.",
+      "persian_sentence_translate": "دنیا کوچک است."
+    },
+    {
+      "id": 211,
+      "word": "year",
+      "persian_translate": "سال",
+      "sentence": "Next year I will travel to Asia.",
+      "persian_sentence_translate": "سال آینده من به آسیا سفر خواهم کرد."
+    },
+    {
+      "id": 212,
+      "word": "bad",
+      "persian_translate": "بد",
+      "sentence": "That was a bad decision.",
+      "persian_sentence_translate": "آن یک تصمیم بد بود."
+    },
+    {
+      "id": 213,
+      "word": "best",
+      "persian_translate": "بهترین",
+      "sentence": "This is the best movie I have ever seen.",
+      "persian_sentence_translate": "این بهترین فیلمی است که تا به حال دیده‌ام."
+    },
+    {
+      "id": 214,
+      "word": "better",
+      "persian_translate": "بهتر",
+      "sentence": "I feel much better now.",
+      "persian_sentence_translate": "من الان خیلی بهتر احساس می‌کنم."
+    },
+    {
+      "id": 215,
+      "word": "big",
+      "persian_translate": "بزرگ",
+      "sentence": "The elephant is a very big animal.",
+      "persian_sentence_translate": "فیل یک حیوان بسیار بزرگ است."
+    },
+    {
+      "id": 216,
+      "word": "black",
+      "persian_translate": "سیاه",
+      "sentence": "She was wearing a black dress.",
+      "persian_sentence_translate": "او یک لباس سیاه پوشیده بود."
+    },
+    {
+      "id": 217,
+      "word": "blue",
+      "persian_translate": "آبی",
+      "sentence": "The sky is a clear blue.",
+      "persian_sentence_translate": "آسمان آبی صاف است."
+    },
+    {
+      "id": 218,
+      "word": "brown",
+      "persian_translate": "قهوه ای",
+      "sentence": "She has long brown hair.",
+      "persian_sentence_translate": "او موهای بلند قهوه‌ای دارد."
+    },
+    {
+      "id": 219,
+      "word": "clean",
+      "persian_translate": "تمیز",
+      "sentence": "Always keep your room clean.",
+      "persian_sentence_translate": "همیشه اتاقت را تمیز نگه دار."
+    },
+    {
+      "id": 220,
+      "word": "cold",
+      "persian_translate": "سرد",
+      "sentence": "It is a very cold day outside.",
+      "persian_sentence_translate": "بیرون یک روز بسیار سرد است."
+    },
+    {
+      "id": 221,
+      "word": "dark",
+      "persian_translate": "تاریک",
+      "sentence": "The room was completely dark.",
+      "persian_sentence_translate": "اتاق کاملاً تاریک بود."
+    },
+    {
+      "id": 222,
+      "word": "easy",
+      "persian_translate": "آسان",
+      "sentence": "The test was surprisingly easy.",
+      "persian_sentence_translate": "آزمون به طور شگفت انگیزی آسان بود."
+    },
+    {
+      "id": 223,
+      "word": "empty",
+      "persian_translate": "خالی",
+      "sentence": "The bottle is empty.",
+      "persian_sentence_translate": "بطری خالی است."
+    },
+    {
+      "id": 224,
+      "word": "fine",
+      "persian_translate": "خوب",
+      "sentence": "I'm fine, thank you.",
+      "persian_sentence_translate": "من خوب هستم، متشکرم."
+    },
+    {
+      "id": 225,
+      "word": "free",
+      "persian_translate": "رایگان",
+      "sentence": "The entrance to the museum is free.",
+      "persian_sentence_translate": "ورودی موزه رایگان است."
+    },
+    {
+      "id": 226,
+      "word": "full",
+      "persian_translate": "پر",
+      "sentence": "The basket is full of apples.",
+      "persian_sentence_translate": "سبد پر از سیب است."
+    },
+    {
+      "id": 227,
+      "word": "good",
+      "persian_translate": "خوب",
+      "sentence": "She is a very good writer.",
+      "persian_sentence_translate": "او یک نویسنده بسیار خوب است."
+    },
+    {
+      "id": 228,
+      "word": "great",
+      "persian_translate": "عالی",
+      "sentence": "We had a great time at the beach.",
+      "persian_sentence_translate": "ما در ساحل اوقات عالی داشتیم."
+    },
+    {
+      "id": 229,
+      "word": "green",
+      "persian_translate": "سبز",
+      "sentence": "The fields are very green after the rain.",
+      "persian_sentence_translate": "مزارع بعد از باران خیلی سبز هستند."
+    },
+    {
+      "id": 230,
+      "word": "happy",
+      "persian_translate": "خوشحال",
+      "sentence": "I am so happy to see you.",
+      "persian_sentence_translate": "من از دیدن شما بسیار خوشحالم."
+    },
+    {
+      "id": 231,
+      "word": "hard",
+      "persian_translate": "سخت",
+      "sentence": "The exam was very hard.",
+      "persian_sentence_translate": "امتحان خیلی سخت بود."
+    },
+    {
+      "id": 232,
+      "word": "heavy",
+      "persian_translate": "سنگین",
+      "sentence": "The box was too heavy to lift.",
+      "persian_sentence_translate": "جعبه برای بلند کردن خیلی سنگین بود."
+    },
+    {
+      "id": 233,
+      "word": "high",
+      "persian_translate": "بلند",
+      "sentence": "The bird flew high in the sky.",
+      "persian_sentence_translate": "پرنده در آسمان بالا پرواز کرد."
+    },
+    {
+      "id": 234,
+      "word": "hot",
+      "persian_translate": "داغ",
+      "sentence": "Be careful, the coffee is very hot.",
+      "persian_sentence_translate": "مواظب باش، قهوه خیلی داغ است."
+    },
+    {
+      "id": 235,
+      "word": "important",
+      "persian_translate": "مهم",
+      "sentence": "It is important to eat vegetables.",
+      "persian_sentence_translate": "خوردن سبزیجات مهم است."
+    },
+    {
+      "id": 236,
+      "word": "light",
+      "persian_translate": "سبک، نور",
+      "sentence": "The room needs more light.",
+      "persian_sentence_translate": "اتاق به نور بیشتری نیاز دارد."
+    },
+    {
+      "id": 237,
+      "word": "long",
+      "persian_translate": "طولانی",
+      "sentence": "It was a long journey.",
+      "persian_sentence_translate": "سفر طولانی بود."
+    },
+    {
+      "id": 238,
+      "word": "new",
+      "persian_translate": "جدید",
+      "sentence": "I bought a new pair of glasses.",
+      "persian_sentence_translate": "من یک جفت عینک جدید خریدم."
+    },
+    {
+      "id": 239,
+      "word": "nice",
+      "persian_translate": "خوب",
+      "sentence": "She is a very nice person.",
+      "persian_sentence_translate": "او یک شخص بسیار خوب است."
+    },
+    {
+      "id": 240,
+      "word": "old",
+      "persian_translate": "قدیمی",
+      "sentence": "My grandfather is 80 years old.",
+      "persian_sentence_translate": "پدربزرگ من ۸۰ سال سن دارد."
+    },
+    {
+      "id": 241,
+      "word": "open",
+      "persian_translate": "باز",
+      "sentence": "The door was wide open.",
+      "persian_sentence_translate": "در کاملاً باز بود."
+    },
+    {
+      "id": 242,
+      "word": "pretty",
+      "persian_translate": "زیبا",
+      "sentence": "That is a very pretty dress.",
+      "persian_sentence_translate": "آن یک لباس بسیار زیبا است."
+    },
+    {
+      "id": 243,
+      "word": "quick",
+      "persian_translate": "سریع",
+      "sentence": "We need a quick response.",
+      "persian_sentence_translate": "ما به یک پاسخ سریع نیاز داریم."
+    },
+    {
+      "id": 244,
+      "word": "ready",
+      "persian_translate": "آماده",
+      "sentence": "Are you ready to leave?",
+      "persian_sentence_translate": "آیا برای رفتن آماده هستید؟"
+    },
+    {
+      "id": 245,
+      "word": "red",
+      "persian_translate": "قرمز",
+      "sentence": "I painted the wall red.",
+      "persian_sentence_translate": "من دیوار را قرمز رنگ کردم."
+    },
+    {
+      "id": 246,
+      "word": "sad",
+      "persian_translate": "ناراحت",
+      "sentence": "She was sad because she lost her toy.",
+      "persian_sentence_translate": "او ناراحت بود زیرا اسباب‌بازی‌اش را گم کرده بود."
+    },
+    {
+      "id": 247,
+      "word": "safe",
+      "persian_translate": "امن",
+      "sentence": "Keep your valuables in a safe place.",
+      "persian_sentence_translate": "اشیاء با ارزش خود را در یک مکان امن نگه دارید."
+    },
+    {
+      "id": 248,
+      "word": "short",
+      "persian_translate": "کوتاه",
+      "sentence": "He has short, black hair.",
+      "persian_sentence_translate": "او موهای سیاه و کوتاهی دارد."
+    },
+    {
+      "id": 249,
+      "word": "slow",
+      "persian_translate": "آهسته",
+      "sentence": "The train was very slow.",
+      "persian_sentence_translate": "قطار خیلی آهسته بود."
+    },
+    {
+      "id": 250,
+      "word": "small",
+      "persian_translate": "کوچک",
+      "sentence": "We live in a small village.",
+      "persian_sentence_translate": "ما در یک روستای کوچک زندگی می‌کنیم."
+    },
+    {
+      "id": 251,
+      "word": "soft",
+      "persian_translate": "نرم",
+      "sentence": "The cushion is very soft.",
+      "persian_sentence_translate": "کوسن خیلی نرم است."
+    },
+    {
+      "id": 252,
+      "word": "strong",
+      "persian_translate": "قوی",
+      "sentence": "He is a strong swimmer.",
+      "persian_sentence_translate": "او یک شناگر قوی است."
+    },
+    {
+      "id": 253,
+      "word": "sweet",
+      "persian_translate": "شیرین",
+      "sentence": "This tea is too sweet for me.",
+      "persian_sentence_translate": "این چای برای من خیلی شیرین است."
+    },
+    {
+      "id": 254,
+      "word": "tall",
+      "persian_translate": "بلند",
+      "sentence": "He is the tallest man in the room.",
+      "persian_sentence_translate": "او بلندترین مرد در اتاق است."
+    },
+    {
+      "id": 255,
+      "word": "thick",
+      "persian_translate": "ضخیم",
+      "sentence": "She was wearing a thick coat.",
+      "persian_sentence_translate": "او یک کت ضخیم پوشیده بود."
+    },
+    {
+      "id": 256,
+      "word": "thin",
+      "persian_translate": "نازک",
+      "sentence": "The ice on the lake is too thin.",
+      "persian_sentence_translate": "یخ روی دریاچه خیلی نازک است."
+    },
+    {
+      "id": 257,
+      "word": "warm",
+      "persian_translate": "گرم",
+      "sentence": "The weather is pleasantly warm today.",
+      "persian_sentence_translate": "امروز هوا به طور دلپذیری گرم است."
+    },
+    {
+      "id": 258,
+      "word": "white",
+      "persian_translate": "سفید",
+      "sentence": "She wore a beautiful white dress.",
+      "persian_sentence_translate": "او یک لباس سفید زیبا پوشیده بود."
+    },
+    {
+      "id": 259,
+      "word": "young",
+      "persian_translate": "جوان",
+      "sentence": "She is a young professional.",
+      "persian_sentence_translate": "او یک متخصص جوان است."
+    },
+    {
+      "id": 260,
+      "word": "animal",
+      "persian_translate": "حیوان",
+      "sentence": "A dog is a loyal animal.",
+      "persian_sentence_translate": "سگ یک حیوان وفادار است."
+    },
+    {
+      "id": 261,
+      "word": "bird",
+      "persian_translate": "پرنده",
+      "sentence": "A small bird landed on the window.",
+      "persian_sentence_translate": "یک پرنده کوچک روی پنجره نشست."
+    },
+    {
+      "id": 262,
+      "word": "body",
+      "persian_translate": "بدن",
+      "sentence": "Exercise is good for your body.",
+      "persian_sentence_translate": "ورزش برای بدن شما خوب است."
+    },
+    {
+      "id": 263,
+      "word": "book",
+      "persian_translate": "کتاب",
+      "sentence": "I finished reading the book last night.",
+      "persian_sentence_translate": "من دیشب خواندن کتاب را تمام کردم."
+    },
+    {
+      "id": 264,
+      "word": "car",
+      "persian_translate": "ماشین",
+      "sentence": "He drives a red car.",
+      "persian_sentence_translate": "او یک ماشین قرمز می‌راند."
+    },
+    {
+      "id": 265,
+      "word": "city",
+      "persian_translate": "شهر",
+      "sentence": "New York is a famous city.",
+      "persian_sentence_translate": "نیویورک یک شهر معروف است."
+    },
+    {
+      "id": 266,
+      "word": "color",
+      "persian_translate": "رنگ",
+      "sentence": "What is your favorite color?",
+      "persian_sentence_translate": "رنگ مورد علاقه شما چیست؟"
+    },
+    {
+      "id": 267,
+      "word": "country",
+      "persian_translate": "کشور",
+      "sentence": "Which country do you come from?",
+      "persian_sentence_translate": "شما اهل کدام کشور هستید؟"
+    },
+    {
+      "id": 268,
+      "word": "day",
+      "persian_translate": "روز",
+      "sentence": "It was a sunny day.",
+      "persian_sentence_translate": "یک روز آفتابی بود."
+    },
+    {
+      "id": 269,
+      "word": "earth",
+      "persian_translate": "زمین",
+      "sentence": "The Earth orbits the sun.",
+      "persian_sentence_translate": "زمین به دور خورشید می‌چرخد."
+    },
+    {
+      "id": 270,
+      "word": "eye",
+      "persian_translate": "چشم",
+      "sentence": "He has one blue eye.",
+      "persian_sentence_translate": "او یک چشم آبی دارد."
+    },
+    {
+      "id": 271,
+      "word": "face",
+      "persian_translate": "چهره",
+      "sentence": "She has a friendly face.",
+      "persian_sentence_translate": "او چهره دوستانه‌ای دارد."
+    },
+    {
+      "id": 272,
+      "word": "family",
+      "persian_translate": "خانواده",
+      "sentence": "We had dinner with the whole family.",
+      "persian_sentence_translate": "ما با تمام خانواده شام خوردیم."
+    },
+    {
+      "id": 273,
+      "word": "father",
+      "persian_translate": "پدر",
+      "sentence": "My father taught me how to drive.",
+      "persian_sentence_translate": "پدرم به من رانندگی یاد داد."
+    },
+    {
+      "id": 274,
+      "word": "friend",
+      "persian_translate": "دوست",
+      "sentence": "He is my best friend.",
+      "persian_sentence_translate": "او بهترین دوست من است."
+    },
+    {
+      "id": 275,
+      "word": "game",
+      "persian_translate": "بازی",
+      "sentence": "We played a board game last night.",
+      "persian_sentence_translate": "ما دیشب یک بازی رومیزی انجام دادیم."
+    },
+    {
+      "id": 276,
+      "word": "garden",
+      "persian_translate": "باغ",
+      "sentence": "There are many flowers in the garden.",
+      "persian_sentence_translate": "گل‌های زیادی در باغ وجود دارد."
+    },
+    {
+      "id": 277,
+      "word": "girl",
+      "persian_translate": "دختر",
+      "sentence": "The little girl was holding a balloon.",
+      "persian_sentence_translate": "دختر کوچک یک بادکنک در دست داشت."
+    },
+    {
+      "id": 278,
+      "word": "group",
+      "persian_translate": "گروه",
+      "sentence": "The group decided to travel together.",
+      "persian_sentence_translate": "گروه تصمیم گرفتند با هم سفر کنند."
+    },
+    {
+      "id": 279,
+      "word": "home",
+      "persian_translate": "خانه",
+      "sentence": "Let's go home now.",
+      "persian_sentence_translate": "بیایید اکنون به خانه برویم."
+    },
+    {
+      "id": 280,
+      "word": "house",
+      "persian_translate": "خانه",
+      "sentence": "Their house has a red roof.",
+      "persian_sentence_translate": "خانه آنها یک سقف قرمز دارد."
+    },
+    {
+      "id": 281,
+      "word": "idea",
+      "persian_translate": "ایده",
+      "sentence": "That is a brilliant idea!",
+      "persian_sentence_translate": "آن یک ایده درخشان است!"
+    },
+    {
+      "id": 282,
+      "word": "job",
+      "persian_translate": "شغل",
+      "sentence": "I'm looking for a new job.",
+      "persian_sentence_translate": "من به دنبال یک شغل جدید هستم."
+    },
+    {
+      "id": 283,
+      "word": "life",
+      "persian_translate": "زندگی",
+      "sentence": "She has a happy and healthy life.",
+      "persian_sentence_translate": "او یک زندگی شاد و سالم دارد."
+    },
+    {
+      "id": 284,
+      "word": "man",
+      "persian_translate": "مرد",
+      "sentence": "The man opened the door for her.",
+      "persian_sentence_translate": "آن مرد در را برای او باز کرد."
+    },
+    {
+      "id": 285,
+      "word": "money",
+      "persian_translate": "پول",
+      "sentence": "Saving money is important.",
+      "persian_sentence_translate": "پس انداز کردن پول مهم است."
+    },
+    {
+      "id": 286,
+      "word": "mother",
+      "persian_translate": "مادر",
+      "sentence": "My mother is a great cook.",
+      "persian_sentence_translate": "مادرم آشپز عالی است."
+    },
+    {
+      "id": 287,
+      "word": "name",
+      "persian_translate": "اسم",
+      "sentence": "What is your name?",
+      "persian_sentence_translate": "اسم شما چیست؟"
+    },
+    {
+      "id": 288,
+      "word": "night",
+      "persian_translate": "شب",
+      "sentence": "I sleep well every night.",
+      "persian_sentence_translate": "من هر شب خوب می‌خوابم."
+    },
+    {
+      "id": 289,
+      "word": "number",
+      "persian_translate": "عدد",
+      "sentence": "Seven is an odd number.",
+      "persian_sentence_translate": "هفت یک عدد فرد است."
+    },
+    {
+      "id": 290,
+      "word": "part",
+      "persian_translate": "قسمت",
+      "sentence": "The first part of the film was boring.",
+      "persian_sentence_translate": "قسمت اول فیلم خسته کننده بود."
+    },
+    {
+      "id": 291,
+      "word": "people",
+      "persian_translate": "مردم",
+      "sentence": "The town has friendly people.",
+      "persian_sentence_translate": "شهر مردم دوستانه‌ای دارد."
+    },
+    {
+      "id": 292,
+      "word": "place",
+      "persian_translate": "مکان",
+      "sentence": "This is a good place to hide.",
+      "persian_sentence_translate": "این یک مکان خوب برای پنهان شدن است."
+    },
+    {
+      "id": 293,
+      "word": "problem",
+      "persian_translate": "مشکل",
+      "sentence": "We discussed the main problem.",
+      "persian_sentence_translate": "ما در مورد مشکل اصلی بحث کردیم."
+    },
+    {
+      "id": 294,
+      "word": "question",
+      "persian_translate": "سوال",
+      "sentence": "I have one final question.",
+      "persian_sentence_translate": "من یک سوال نهایی دارم."
+    },
+    {
+      "id": 295,
+      "word": "room",
+      "persian_translate": "اتاق",
+      "sentence": "The living room is very large.",
+      "persian_sentence_translate": "اتاق نشیمن بسیار بزرگ است."
+    },
+    {
+      "id": 296,
+      "word": "school",
+      "persian_translate": "مدرسه",
+      "sentence": "He walks to school every day.",
+      "persian_sentence_translate": "او هر روز پیاده به مدرسه می‌رود."
+    },
+    {
+      "id": 297,
+      "word": "sentence",
+      "persian_translate": "جمله",
+      "sentence": "Please write a complete sentence.",
+      "persian_sentence_translate": "لطفاً یک جمله کامل بنویسید."
+    },
+    {
+      "id": 298,
+      "word": "story",
+      "persian_translate": "داستان",
+      "sentence": "This story has a happy ending.",
+      "persian_sentence_translate": "این داستان پایان خوشی دارد."
+    },
+    {
+      "id": 299,
+      "word": "student",
+      "persian_translate": "دانش آموز",
+      "sentence": "The new student is very quiet.",
+      "persian_sentence_translate": "دانش آموز جدید خیلی ساکت است."
+    },
+    {
+      "id": 300,
+      "word": "study",
+      "persian_translate": "مطالعه",
+      "sentence": "You should study hard for your exams.",
+      "persian_sentence_translate": "شما باید برای امتحاناتتان سخت مطالعه کنید."
+    },
+    {
+      "id": 301,
+      "word": "thing",
+      "persian_translate": "چیز",
+      "sentence": "The best thing about him is his kindness.",
+      "persian_sentence_translate": "بهترین چیز در مورد او مهربانی‌اش است."
+    },
+    {
+      "id": 302,
+      "word": "time",
+      "persian_translate": "زمان",
+      "sentence": "We had a great time together.",
+      "persian_sentence_translate": "ما اوقات خوبی را با هم داشتیم."
+    },
+    {
+      "id": 303,
+      "word": "water",
+      "persian_translate": "آب",
+      "sentence": "The fish swim in the water.",
+      "persian_sentence_translate": "ماهی‌ها در آب شنا می‌کنند."
+    },
+    {
+      "id": 304,
+      "word": "way",
+      "persian_translate": "راه",
+      "sentence": "Can you show me the way to the bus stop?",
+      "persian_sentence_translate": "می‌توانید راه ایستگاه اتوبوس را به من نشان دهید؟"
+    },
+    {
+      "id": 305,
+      "word": "week",
+      "persian_translate": "هفته",
+      "sentence": "I went on vacation for a week.",
+      "persian_sentence_translate": "من به مدت یک هفته به تعطیلات رفتم."
+    },
+    {
+      "id": 306,
+      "word": "word",
+      "persian_translate": "کلمه",
+      "sentence": "I learned a new word today.",
+      "persian_sentence_translate": "من امروز یک کلمه جدید یاد گرفتم."
+    },
+    {
+      "id": 307,
+      "word": "work",
+      "persian_translate": "کار",
+      "sentence": "My work involves a lot of travel.",
+      "persian_sentence_translate": "کار من شامل سفرهای زیادی است."
+    },
+    {
+      "id": 308,
+      "word": "world",
+      "persian_translate": "دنیا",
+      "sentence": "The world is getting warmer.",
+      "persian_sentence_translate": "دنیا در حال گرم‌تر شدن است."
+    },
+    {
+      "id": 309,
+      "word": "year",
+      "persian_translate": "سال",
+      "sentence": "This year has been very challenging.",
+      "persian_sentence_translate": "این سال بسیار چالش برانگیز بوده است."
+    },
+    {
+      "id": 310,
+      "word": "answer",
+      "persian_translate": "پاسخ",
+      "sentence": "I didn't know the answer to the question.",
+      "persian_sentence_translate": "من پاسخ سوال را نمی‌دانستم."
+    },
+    {
+      "id": 311,
+      "word": "ask",
+      "persian_translate": "پرسیدن",
+      "sentence": "You should ask for directions.",
+      "persian_sentence_translate": "شما باید مسیر را بپرسید."
+    },
+    {
+      "id": 312,
+      "word": "be",
+      "persian_translate": "بودن",
+      "sentence": "She wants to be rich.",
+      "persian_sentence_translate": "او می‌خواهد ثروتمند باشد."
+    },
+    {
+      "id": 313,
+      "word": "become",
+      "persian_translate": "شدن",
+      "sentence": "He wants to become a pilot.",
+      "persian_sentence_translate": "او می‌خواهد خلبان شود."
+    },
+    {
+      "id": 314,
+      "word": "begin",
+      "persian_translate": "شروع کردن",
+      "sentence": "We will begin the course on Monday.",
+      "persian_sentence_translate": "ما دوشنبه دوره را شروع خواهیم کرد."
+    },
+    {
+      "id": 315,
+      "word": "believe",
+      "persian_translate": "باور کردن",
+      "sentence": "Do you believe in magic?",
+      "persian_sentence_translate": "آیا شما به جادو باور دارید؟"
+    },
+    {
+      "id": 316,
+      "word": "bring",
+      "persian_translate": "آوردن",
+      "sentence": "Please bring your camera.",
+      "persian_sentence_translate": "لطفاً دوربین خود را بیاورید."
+    },
+    {
+      "id": 317,
+      "word": "build",
+      "persian_translate": "ساختن",
+      "sentence": "They plan to build a new bridge.",
+      "persian_sentence_translate": "آنها قصد دارند یک پل جدید بسازند."
+    },
+    {
+      "id": 318,
+      "word": "buy",
+      "persian_translate": "خریدن",
+      "sentence": "I need to buy some groceries.",
+      "persian_sentence_translate": "من باید مقداری مواد غذایی بخرم."
+    },
+    {
+      "id": 319,
+      "word": "call",
+      "persian_translate": "صدا زدن",
+      "sentence": "Please call me when you arrive.",
+      "persian_sentence_translate": "لطفاً وقتی رسیدید با من تماس بگیرید."
+    },
+    {
+      "id": 320,
+      "word": "can",
+      "persian_translate": "توانستن",
+      "sentence": "She can run faster than him.",
+      "persian_sentence_translate": "او می‌تواند سریع‌تر از او بدود."
+    },
+    {
+      "id": 321,
+      "word": "change",
+      "persian_translate": "تغییر دادن",
+      "sentence": "We need to change our meeting time.",
+      "persian_sentence_translate": "ما باید زمان ملاقاتمان را تغییر دهیم."
+    },
+    {
+      "id": 322,
+      "word": "come",
+      "persian_translate": "آمدن",
+      "sentence": "Are you coming with us?",
+      "persian_sentence_translate": "آیا با ما می‌آیید؟"
+    },
+    {
+      "id": 323,
+      "word": "could",
+      "persian_translate": "می‌توانست",
+      "sentence": "She could swim when she was five.",
+      "persian_sentence_translate": "او وقتی پنج ساله بود می‌توانست شنا کند."
+    },
+    {
+      "id": 324,
+      "word": "do",
+      "persian_translate": "انجام دادن",
+      "sentence": "I always do my best.",
+      "persian_sentence_translate": "من همیشه بهترین کارم را انجام می‌دهم."
+    },
+    {
+      "id": 325,
+      "word": "feel",
+      "persian_translate": "احساس کردن",
+      "sentence": "I feel happy when I am with you.",
+      "persian_sentence_translate": "وقتی با تو هستم احساس خوشحالی می‌کنم."
+    },
+    {
+      "id": 326,
+      "word": "find",
+      "persian_translate": "پیدا کردن",
+      "sentence": "Did you find what you were looking for?",
+      "persian_sentence_translate": "آیا چیزی را که به دنبالش بودید پیدا کردید؟"
+    },
+    {
+      "id": 327,
+      "word": "get",
+      "persian_translate": "گرفتن",
+      "sentence": "I need to get a new passport.",
+      "persian_sentence_translate": "من باید یک پاسپورت جدید بگیرم."
+    },
+    {
+      "id": 328,
+      "word": "give",
+      "persian_translate": "دادن",
+      "sentence": "Can you give me a ride?",
+      "persian_sentence_translate": "می‌توانید به من سواری بدهید؟"
+    },
+    {
+      "id": 329,
+      "word": "go",
+      "persian_translate": "رفتن",
+      "sentence": "Where do you want to go?",
+      "persian_sentence_translate": "کجا می‌خواهید بروید؟"
+    },
+    {
+      "id": 330,
+      "word": "have",
+      "persian_translate": "داشتن",
+      "sentence": "They have three children.",
+      "persian_sentence_translate": "آنها سه فرزند دارند."
+    },
+    {
+      "id": 331,
+      "word": "hear",
+      "persian_translate": "شنیدن",
+      "sentence": "I can't hear you over the music.",
+      "persian_sentence_translate": "به دلیل صدای موسیقی نمی‌توانم صدای شما را بشنوم."
+    },
+    {
+      "id": 332,
+      "word": "help",
+      "persian_translate": "کمک کردن",
+      "sentence": "I am always ready to help.",
+      "persian_sentence_translate": "من همیشه آماده کمک کردن هستم."
+    },
+    {
+      "id": 333,
+      "word": "keep",
+      "persian_translate": "نگه داشتن",
+      "sentence": "Keep the door closed.",
+      "persian_sentence_translate": "در را بسته نگه دارید."
+    },
+    {
+      "id": 334,
+      "word": "know",
+      "persian_translate": "دانستن",
+      "sentence": "I know all the words to that song.",
+      "persian_sentence_translate": "من تمام کلمات آن آهنگ را می‌دانم."
+    },
+    {
+      "id": 335,
+      "word": "leave",
+      "persian_translate": "ترک کردن",
+      "sentence": "What time did you leave the office?",
+      "persian_sentence_translate": "ساعت چند اداره را ترک کردید؟"
+    },
+    {
+      "id": 336,
+      "word": "let",
+      "persian_translate": "اجازه دادن",
+      "sentence": "Let me carry that bag for you.",
+      "persian_sentence_translate": "بگذار آن کیف را برای شما حمل کنم."
+    },
+    {
+      "id": 337,
+      "word": "like",
+      "persian_translate": "دوست داشتن",
+      "sentence": "Do you like to travel?",
+      "persian_sentence_translate": "آیا سفر کردن را دوست دارید؟"
+    },
+    {
+      "id": 338,
+      "word": "live",
+      "persian_translate": "زندگی کردن",
+      "sentence": "They live in a large apartment.",
+      "persian_sentence_translate": "آنها در یک آپارتمان بزرگ زندگی می‌کنند."
+    },
+    {
+      "id": 339,
+      "word": "look",
+      "persian_translate": "نگاه کردن",
+      "sentence": "Look at the stars tonight.",
+      "persian_sentence_translate": "امشب به ستاره‌ها نگاه کن."
+    },
+    {
+      "id": 340,
+      "word": "make",
+      "persian_translate": "ساختن",
+      "sentence": "I need to make a phone call.",
+      "persian_sentence_translate": "من باید یک تماس تلفنی بگیرم."
+    },
+    {
+      "id": 341,
+      "word": "may",
+      "persian_translate": "ممکن است",
+      "sentence": "You may enter the room now.",
+      "persian_sentence_translate": "شما اکنون می‌توانید وارد اتاق شوید."
+    },
+    {
+      "id": 342,
+      "word": "mean",
+      "persian_translate": "معنی دادن",
+      "sentence": "I didn't mean to hurt your feelings.",
+      "persian_sentence_translate": "من قصد نداشتم احساسات شما را جریحه دار کنم."
+    },
+    {
+      "id": 343,
+      "word": "might",
+      "persian_translate": "ممکن بود",
+      "sentence": "She might be busy right now.",
+      "persian_sentence_translate": "ممکن است او الان مشغول باشد."
+    },
+    {
+      "id": 344,
+      "word": "move",
+      "persian_translate": "حرکت کردن",
+      "sentence": "We are going to move house next month.",
+      "persian_sentence_translate": "ما قرار است ماه آینده خانه را جابجا کنیم (نقل مکان کنیم)."
+    },
+    {
+      "id": 345,
+      "word": "need",
+      "persian_translate": "نیاز داشتن",
+      "sentence": "I need a pen to write this down.",
+      "persian_sentence_translate": "من برای نوشتن این به یک خودکار نیاز دارم."
+    },
+    {
+      "id": 346,
+      "word": "play",
+      "persian_translate": "بازی کردن",
+      "sentence": "Let's play a game of chess.",
+      "persian_sentence_translate": "بیایید یک بازی شطرنج بازی کنیم."
+    },
+    {
+      "id": 347,
+      "word": "put",
+      "persian_translate": "گذاشتن",
+      "sentence": "Put your phone away.",
+      "persian_sentence_translate": "تلفن خود را کنار بگذارید."
+    },
+    {
+      "id": 348,
+      "word": "run",
+      "persian_translate": "دویدن",
+      "sentence": "I can run a marathon.",
+      "persian_sentence_translate": "من می‌توانم یک ماراتن بدوم."
+    },
+    {
+      "id": 349,
+      "word": "say",
+      "persian_translate": "گفتن",
+      "sentence": "What did he say to you?",
+      "persian_sentence_translate": "او به شما چه گفت؟"
+    },
+    {
+      "id": 350,
+      "word": "see",
+      "persian_translate": "دیدن",
+      "sentence": "I can see the ocean from here.",
+      "persian_sentence_translate": "من می‌توانم اقیانوس را از اینجا ببینم."
+    },
+    {
+      "id": 351,
+      "word": "seem",
+      "persian_translate": "به نظر رسیدن",
+      "sentence": "You seem tired today.",
+      "persian_sentence_translate": "شما امروز خسته به نظر می‌رسید."
+    },
+    {
+      "id": 352,
+      "word": "should",
+      "persian_translate": "باید",
+      "sentence": "We should arrive before dark.",
+      "persian_sentence_translate": "ما باید قبل از تاریکی برسیم."
+    },
+    {
+      "id": 353,
+      "word": "show",
+      "persian_translate": "نشان دادن",
+      "sentence": "Show me your drawings.",
+      "persian_sentence_translate": "نقاشی‌هایت را به من نشان بده."
+    },
+    {
+      "id": 354,
+      "word": "start",
+      "persian_translate": "شروع کردن",
+      "sentence": "Let's start the engine.",
+      "persian_sentence_translate": "بیایید موتور را روشن کنیم (شروع کنیم)."
+    },
+    {
+      "id": 355,
+      "word": "take",
+      "persian_translate": "گرفتن",
+      "sentence": "Take a deep breath.",
+      "persian_sentence_translate": "یک نفس عمیق بکش."
+    },
+    {
+      "id": 356,
+      "word": "talk",
+      "persian_translate": "صحبت کردن",
+      "sentence": "We need to talk about the budget.",
+      "persian_sentence_translate": "ما باید در مورد بودجه صحبت کنیم."
+    },
+    {
+      "id": 357,
+      "word": "tell",
+      "persian_translate": "گفتن",
+      "sentence": "Tell me the truth.",
+      "persian_sentence_translate": "حقیقت را به من بگو."
+    },
+    {
+      "id": 358,
+      "word": "think",
+      "persian_translate": "فکر کردن",
+      "sentence": "I think we should wait.",
+      "persian_sentence_translate": "فکر می‌کنم باید صبر کنیم."
+    },
+    {
+      "id": 359,
+      "word": "try",
+      "persian_translate": "سعی کردن",
+      "sentence": "Always try your best.",
+      "persian_sentence_translate": "همیشه بهترین تلاشت را بکن."
+    },
+    {
+      "id": 360,
+      "word": "turn",
+      "persian_translate": "چرخاندن",
+      "sentence": "Turn the page.",
+      "persian_sentence_translate": "صفحه را برگردان."
+    },
+    {
+      "id": 361,
+      "word": "use",
+      "persian_translate": "استفاده کردن",
+      "sentence": "Can I use your phone?",
+      "persian_sentence_translate": "آیا می‌توانم از تلفن شما استفاده کنم؟"
+    },
+    {
+      "id": 362,
+      "word": "want",
+      "persian_translate": "خواستن",
+      "sentence": "I want to be successful.",
+      "persian_sentence_translate": "من می‌خواهم موفق باشم."
+    },
+    {
+      "id": 363,
+      "word": "will",
+      "persian_translate": "خواهد",
+      "sentence": "I will see you soon.",
+      "persian_sentence_translate": "من به زودی شما را خواهم دید."
+    },
+    {
+      "id": 364,
+      "word": "work",
+      "persian_translate": "کار کردن",
+      "sentence": "We work from Monday to Friday.",
+      "persian_sentence_translate": "ما از دوشنبه تا جمعه کار می‌کنیم."
+    },
+    {
+      "id": 365,
+      "word": "would",
+      "persian_translate": "می‌خواهد",
+      "sentence": "Would you like some tea?",
+      "persian_sentence_translate": "آیا مقداری چای می‌خواهید؟"
+    },
+    {
+      "id": 366,
+      "word": "write",
+      "persian_translate": "نوشتن",
+      "sentence": "She needs to write an essay.",
+      "persian_sentence_translate": "او باید یک مقاله بنویسد."
+    },
+    {
+      "id": 367,
+      "word": "about",
+      "persian_translate": "در مورد",
+      "sentence": "The movie is about a secret agent.",
+      "persian_sentence_translate": "فیلم در مورد یک مامور مخفی است."
+    },
+    {
+      "id": 368,
+      "word": "above",
+      "persian_translate": "بالا",
+      "sentence": "The shelf is above the table.",
+      "persian_sentence_translate": "قفسه بالای میز است."
+    },
+    {
+      "id": 369,
+      "word": "across",
+      "persian_translate": "عبر",
+      "sentence": "They walked across the street.",
+      "persian_sentence_translate": "آنها از خیابان عبور کردند."
+    },
+    {
+      "id": 370,
+      "word": "after",
+      "persian_translate": "بعد",
+      "sentence": "After the rain, the sun came out.",
+      "persian_sentence_translate": "بعد از باران، خورشید بیرون آمد."
+    },
+    {
+      "id": 371,
+      "word": "against",
+      "persian_translate": "علیه",
+      "sentence": "He leaned against the wall.",
+      "persian_sentence_translate": "او به دیوار تکیه داد."
+    },
+    {
+      "id": 372,
+      "word": "along",
+      "persian_translate": "در طول",
+      "sentence": "We walked along the riverbank.",
+      "persian_sentence_translate": "ما در طول کرانه رودخانه قدم زدیم."
+    },
+    {
+      "id": 373,
+      "word": "among",
+      "persian_translate": "در میان",
+      "sentence": "She was the best among the students.",
+      "persian_sentence_translate": "او بهترین در میان دانش‌آموزان بود."
+    },
+    {
+      "id": 374,
+      "word": "around",
+      "persian_translate": "دور",
+      "sentence": "The earth revolves around the sun.",
+      "persian_sentence_translate": "زمین به دور خورشید می‌چرخد."
+    },
+    {
+      "id": 375,
+      "word": "as",
+      "persian_translate": "به عنوان",
+      "sentence": "I used the scarf as a blanket.",
+      "persian_sentence_translate": "من از شال به عنوان پتو استفاده کردم."
+    },
+    {
+      "id": 376,
+      "word": "at",
+      "persian_translate": "در",
+      "sentence": "The meeting is at 10 o'clock.",
+      "persian_sentence_translate": "جلسه ساعت ۱۰ است."
+    },
+    {
+      "id": 377,
+      "word": "before",
+      "persian_translate": "قبل",
+      "sentence": "I eat breakfast before going to work.",
+      "persian_sentence_translate": "من قبل از رفتن به سر کار صبحانه می‌خورم."
+    },
+    {
+      "id": 378,
+      "word": "behind",
+      "persian_translate": "پشت",
+      "sentence": "The dog is hiding behind the couch.",
+      "persian_sentence_translate": "سگ پشت مبل پنهان شده است."
+    },
+    {
+      "id": 379,
+      "word": "below",
+      "persian_translate": "پایین",
+      "sentence": "The temperature dropped below zero.",
+      "persian_sentence_translate": "دما به زیر صفر رسید (افت کرد)."
+    },
+    {
+      "id": 380,
+      "word": "between",
+      "persian_translate": "بین",
+      "sentence": "The letter was found between the pages.",
+      "persian_sentence_translate": "نامه بین صفحات پیدا شد."
+    },
+    {
+      "id": 381,
+      "word": "by",
+      "persian_translate": "توسط",
+      "sentence": "The house is by the lake.",
+      "persian_sentence_translate": "خانه کنار دریاچه است."
+    },
+    {
+      "id": 382,
+      "word": "down",
+      "persian_translate": "پایین",
+      "sentence": "She climbed down the ladder.",
+      "persian_sentence_translate": "او از نردبان پایین آمد."
+    },
+    {
+      "id": 383,
+      "word": "during",
+      "persian_translate": "در طول",
+      "sentence": "He slept during the entire movie.",
+      "persian_sentence_translate": "او در طول کل فیلم خوابید."
+    },
+    {
+      "id": 384,
+      "word": "for",
+      "persian_translate": "برای",
+      "sentence": "I bought flowers for my mother.",
+      "persian_sentence_translate": "من برای مادرم گل خریدم."
+    },
+    {
+      "id": 385,
+      "word": "from",
+      "persian_translate": "از",
+      "sentence": "The flight from Paris was delayed.",
+      "persian_sentence_translate": "پرواز از پاریس تأخیر داشت."
+    },
+    {
+      "id": 386,
+      "word": "in",
+      "persian_translate": "در",
+      "sentence": "The children are playing in the garden.",
+      "persian_sentence_translate": "بچه‌ها در باغ بازی می‌کنند."
+    },
+    {
+      "id": 387,
+      "word": "inside",
+      "persian_translate": "داخل",
+      "sentence": "The cat is hiding inside the box.",
+      "persian_sentence_translate": "گربه داخل جعبه پنهان شده است."
+    },
+    {
+      "id": 388,
+      "word": "into",
+      "persian_translate": "به داخل",
+      "sentence": "Pour the water into the glass.",
+      "persian_sentence_translate": "آب را به داخل لیوان بریزید."
+    },
+    {
+      "id": 389,
+      "word": "near",
+      "persian_translate": "نزدیک",
+      "sentence": "Is there a bank near here?",
+      "persian_sentence_translate": "آیا نزدیک اینجا بانکی هست؟"
+    },
+    {
+      "id": 390,
+      "word": "of",
+      "persian_translate": "از",
+      "sentence": "A cup of coffee, please.",
+      "persian_sentence_translate": "لطفاً یک فنجان قهوه."
+    },
+    {
+      "id": 391,
+      "word": "off",
+      "persian_translate": "خاموش",
+      "sentence": "Turn off the lights before you go.",
+      "persian_sentence_translate": "قبل از رفتن چراغ‌ها را خاموش کنید."
+    },
+    {
+      "id": 392,
+      "word": "on",
+      "persian_translate": "روی",
+      "sentence": "The hat is on her head.",
+      "persian_sentence_translate": "کلاه روی سر اوست."
+    },
+    {
+      "id": 393,
+      "word": "out",
+      "persian_translate": "بیرون",
+      "sentence": "She stepped out of the car.",
+      "persian_sentence_translate": "او از ماشین بیرون آمد."
+    },
+    {
+      "id": 394,
+      "word": "outside",
+      "persian_translate": "بیرون",
+      "sentence": "We ate lunch outside today.",
+      "persian_sentence_translate": "ما امروز ناهار را بیرون خوردیم."
+    },
+    {
+      "id": 395,
+      "word": "over",
+      "persian_translate": "روی",
+      "sentence": "She spread a cloth over the table.",
+      "persian_sentence_translate": "او یک پارچه روی میز پهن کرد."
+    },
+    {
+      "id": 396,
+      "word": "through",
+      "persian_translate": "از طریق",
+      "sentence": "They drove through the tunnel.",
+      "persian_sentence_translate": "آنها از طریق تونل رانندگی کردند."
+    },
+    {
+      "id": 397,
+      "word": "to",
+      "persian_translate": "به",
+      "sentence": "I gave the book to her.",
+      "persian_sentence_translate": "من کتاب را به او دادم."
+    },
+    {
+      "id": 398,
+      "word": "under",
+      "persian_translate": "زیر",
+      "sentence": "The ball rolled under the sofa.",
+      "persian_sentence_translate": "توپ زیر مبل غلتید."
+    },
+    {
+      "id": 399,
+      "word": "until",
+      "persian_translate": "تا",
+      "sentence": "I stayed up until 3 AM.",
+      "persian_sentence_translate": "من تا ساعت ۳ صبح بیدار ماندم."
+    },
+    {
+      "id": 400,
+      "word": "up",
+      "persian_translate": "بالا",
+      "sentence": "The cat climbed up the tree.",
+      "persian_sentence_translate": "گربه از درخت بالا رفت."
+    },
+    {
+      "id": 401,
+      "word": "with",
+      "persian_translate": "با",
+      "sentence": "I went shopping with my sister.",
+      "persian_sentence_translate": "من با خواهرم به خرید رفتم."
+    },
+    {
+      "id": 402,
+      "word": "without",
+      "persian_translate": "بدون",
+      "sentence": "He left without saying goodbye.",
+      "persian_sentence_translate": "او بدون خداحافظی رفت."
+    },
+    {
+      "id": 403,
+      "word": "about",
+      "persian_translate": "در مورد",
+      "sentence": "We were talking about the movie.",
+      "persian_sentence_translate": "ما داشتیم در مورد فیلم صحبت می‌کردیم."
+    },
+    {
+      "id": 404,
+      "word": "all",
+      "persian_translate": "همه",
+      "sentence": "All the lights were off.",
+      "persian_sentence_translate": "همه چراغ‌ها خاموش بودند."
+    },
+    {
+      "id": 405,
+      "word": "also",
+      "persian_translate": "همچنین",
+      "sentence": "He is a photographer and also a painter.",
+      "persian_sentence_translate": "او یک عکاس و همچنین یک نقاش است."
+    },
+    {
+      "id": 406,
+      "word": "and",
+      "persian_translate": "و",
+      "sentence": "I like to read and write.",
+      "persian_sentence_translate": "من دوست دارم بخوانم و بنویسم."
+    },
+    {
+      "id": 407,
+      "word": "another",
+      "persian_translate": "دیگری",
+      "sentence": "Can you give me another chance?",
+      "persian_sentence_translate": "آیا می‌توانید فرصت دیگری به من بدهید؟"
+    },
+    {
+      "id": 408,
+      "word": "any",
+      "persian_translate": "هر",
+      "sentence": "I don't have any money left.",
+      "persian_sentence_translate": "من هیچ پولی برایم نمانده است."
+    },
+    {
+      "id": 409,
+      "word": "because",
+      "persian_translate": "زیرا",
+      "sentence": "She is happy because she won.",
+      "persian_sentence_translate": "او خوشحال است زیرا برنده شد."
+    },
+    {
+      "id": 410,
+      "word": "but",
+      "persian_translate": "اما",
+      "sentence": "I tried to call, but no one answered.",
+      "persian_sentence_translate": "سعی کردم تماس بگیرم، اما کسی پاسخ نداد."
+    },
+    {
+      "id": 411,
+      "word": "each",
+      "persian_translate": "هر",
+      "sentence": "Each person received a gift.",
+      "persian_sentence_translate": "هر نفر یک هدیه دریافت کرد."
+    },
+    {
+      "id": 412,
+      "word": "even",
+      "persian_translate": "حتی",
+      "sentence": "Even the dog was tired.",
+      "persian_sentence_translate": "حتی سگ هم خسته بود."
+    },
+    {
+      "id": 413,
+      "word": "for",
+      "persian_translate": "برای",
+      "sentence": "She knitted a scarf for me.",
+      "persian_sentence_translate": "او برای من یک شال گردن بافت."
+    },
+    {
+      "id": 414,
+      "word": "from",
+      "persian_translate": "از",
+      "sentence": "The news is from a reliable source.",
+      "persian_sentence_translate": "اخبار از یک منبع قابل اعتماد است."
+    },
+    {
+      "id": 415,
+      "word": "if",
+      "persian_translate": "اگر",
+      "sentence": "I will go if you go.",
+      "persian_sentence_translate": "اگر شما بروید، من هم خواهم رفت."
+    },
+    {
+      "id": 416,
+      "word": "in",
+      "persian_translate": "در",
+      "sentence": "We met in the park.",
+      "persian_sentence_translate": "ما در پارک ملاقات کردیم."
+    },
+    {
+      "id": 417,
+      "word": "more",
+      "persian_translate": "بیشتر",
+      "sentence": "I want more pizza.",
+      "persian_sentence_translate": "من پیتزای بیشتری می‌خواهم."
+    },
+    {
+      "id": 418,
+      "word": "most",
+      "persian_translate": "بیشترین",
+      "sentence": "That was the most delicious meal.",
+      "persian_sentence_translate": "آن لذیذترین وعده غذایی بود."
+    },
+    {
+      "id": 419,
+      "word": "no",
+      "persian_translate": "نه",
+      "sentence": "I said no to the offer.",
+      "persian_sentence_translate": "من به پیشنهاد نه گفتم."
+    },
+    {
+      "id": 420,
+      "word": "not",
+      "persian_translate": "نه",
+      "sentence": "He is not feeling well.",
+      "persian_sentence_translate": "او حالش خوب نیست."
+    },
+    {
+      "id": 421,
+      "word": "now",
+      "persian_translate": "اکنون",
+      "sentence": "We must act now.",
+      "persian_sentence_translate": "ما باید اکنون عمل کنیم."
+    },
+    {
+      "id": 422,
+      "word": "of",
+      "persian_translate": "از",
+      "sentence": "The majority of the votes were cast.",
+      "persian_sentence_translate": "اکثریت آرا به صندوق ریخته شد."
+    },
+    {
+      "id": 423,
+      "word": "on",
+      "persian_translate": "روی",
+      "sentence": "She put the keys on the hook.",
+      "persian_sentence_translate": "او کلیدها را روی قلاب گذاشت."
+    },
+    {
+      "id": 424,
+      "word": "one",
+      "persian_translate": "یک",
+      "sentence": "He is one of my best friends.",
+      "persian_sentence_translate": "او یکی از بهترین دوستان من است."
+    },
+    {
+      "id": 425,
+      "word": "only",
+      "persian_translate": "فقط",
+      "sentence": "I only eat vegetables.",
+      "persian_sentence_translate": "من فقط سبزیجات می‌خورم."
+    },
+    {
+      "id": 426,
+      "word": "or",
+      "persian_translate": "یا",
+      "sentence": "We can meet on Saturday or Sunday.",
+      "persian_sentence_translate": "ما می‌توانیم شنبه یا یکشنبه ملاقات کنیم."
+    },
+    {
+      "id": 427,
+      "word": "other",
+      "persian_translate": "دیگر",
+      "sentence": "I need one other person to help.",
+      "persian_sentence_translate": "من به یک نفر دیگر برای کمک نیاز دارم."
+    },
+    {
+      "id": 428,
+      "word": "out",
+      "persian_translate": "بیرون",
+      "sentence": "Let's find out the truth.",
+      "persian_sentence_translate": "بیایید حقیقت را کشف کنیم."
+    },
+    {
+      "id": 429,
+      "word": "over",
+      "persian_translate": "روی",
+      "sentence": "The game is over.",
+      "persian_sentence_translate": "بازی تمام شد."
+    },
+    {
+      "id": 430,
+      "word": "so",
+      "persian_translate": "بنابراین",
+      "sentence": "She studied hard, so she passed the exam.",
+      "persian_sentence_translate": "او سخت مطالعه کرد، بنابراین در امتحان قبول شد."
+    },
+    {
+      "id": 431,
+      "word": "some",
+      "persian_translate": "بعضی",
+      "sentence": "I bought some groceries.",
+      "persian_sentence_translate": "من مقداری مواد غذایی خریدم."
+    },
+    {
+      "id": 432,
+      "word": "such",
+      "persian_translate": "چنین",
+      "sentence": "I had never heard such a beautiful voice.",
+      "persian_sentence_translate": "من هرگز چنین صدای زیبایی نشنیده بودم."
+    },
+    {
+      "id": 433,
+      "word": "than",
+      "persian_translate": "از",
+      "sentence": "This car is faster than that one.",
+      "persian_sentence_translate": "این ماشین از آن یکی سریع‌تر است."
+    },
+    {
+      "id": 434,
+      "word": "that",
+      "persian_translate": "آن",
+      "sentence": "I believe that she will win.",
+      "persian_sentence_translate": "من باور دارم که او برنده خواهد شد."
+    },
+    {
+      "id": 435,
+      "word": "the",
+      "persian_translate": "the",
+      "sentence": "The biggest building in the city is very tall.",
+      "persian_sentence_translate": "بزرگترین ساختمان در شهر بسیار بلند است."
+    },
+    {
+      "id": 436,
+      "word": "then",
+      "persian_translate": "سپس",
+      "sentence": "First, we went to the market, then to the bank.",
+      "persian_sentence_translate": "اول، ما به بازار رفتیم، سپس به بانک."
+    },
+    {
+      "id": 437,
+      "word": "there",
+      "persian_translate": "آنجا",
+      "sentence": "I saw him standing there.",
+      "persian_sentence_translate": "من او را دیدم که آنجا ایستاده بود."
+    },
+    {
+      "id": 438,
+      "word": "these",
+      "persian_translate": "اینها",
+      "sentence": "These are my new shoes.",
+      "persian_sentence_translate": "اینها کفش‌های جدید من هستند."
+    },
+    {
+      "id": 439,
+      "word": "they",
+      "persian_translate": "آنها",
+      "sentence": "They are waiting for us.",
+      "persian_sentence_translate": "آنها منتظر ما هستند."
+    },
+    {
+      "id": 440,
+      "word": "this",
+      "persian_translate": "این",
+      "sentence": "This is a great opportunity.",
+      "persian_sentence_translate": "این یک فرصت عالی است."
+    },
+    {
+      "id": 441,
+      "word": "those",
+      "persian_translate": "آنها",
+      "sentence": "Those apples look ripe.",
+      "persian_sentence_translate": "آن سیب‌ها رسیده به نظر می‌رسند."
+    },
+    {
+      "id": 442,
+      "word": "through",
+      "persian_translate": "از طریق",
+      "sentence": "We looked through the window.",
+      "persian_sentence_translate": "ما از طریق پنجره نگاه کردیم."
+    },
+    {
+      "id": 443,
+      "word": "to",
+      "persian_translate": "به",
+      "sentence": "I need to go to the bank.",
+      "persian_sentence_translate": "من باید به بانک بروم."
+    },
+    {
+      "id": 444,
+      "word": "up",
+      "persian_translate": "بالا",
+      "sentence": "The prices went up last month.",
+      "persian_sentence_translate": "قیمت‌ها ماه گذشته بالا رفتند."
+    },
+    {
+      "id": 445,
+      "word": "very",
+      "persian_translate": "بسیار",
+      "sentence": "I am very happy with the results.",
+      "persian_sentence_translate": "من از نتایج بسیار راضی هستم."
+    },
+    {
+      "id": 446,
+      "word": "was",
+      "persian_translate": "بود",
+      "sentence": "He was sick yesterday.",
+      "persian_sentence_translate": "او دیروز بیمار بود."
+    },
+    {
+      "id": 447,
+      "word": "we",
+      "persian_translate": "ما",
+      "sentence": "We had a wonderful vacation.",
+      "persian_sentence_translate": "ما یک تعطیلات فوق‌العاده داشتیم."
+    },
+    {
+      "id": 448,
+      "word": "well",
+      "persian_translate": "خوب",
+      "sentence": "The presentation went very well.",
+      "persian_sentence_translate": "ارائه بسیار خوب پیش رفت."
+    },
+    {
+      "id": 449,
+      "word": "what",
+      "persian_translate": "چه",
+      "sentence": "What happened here?",
+      "persian_sentence_translate": "اینجا چه اتفاقی افتاد؟"
+    },
+    {
+      "id": 450,
+      "word": "when",
+      "persian_translate": "کی",
+      "sentence": "When did you decide to move?",
+      "persian_sentence_translate": "کی تصمیم گرفتید نقل مکان کنید؟"
+    },
+    {
+      "id": 451,
+      "word": "where",
+      "persian_translate": "کجا",
+      "sentence": "Where is the nearest restaurant?",
+      "persian_sentence_translate": "نزدیک‌ترین رستوران کجاست؟"
+    },
+    {
+      "id": 452,
+      "word": "which",
+      "persian_translate": "کدام",
+      "sentence": "Which option do you choose?",
+      "persian_sentence_translate": "کدام گزینه را انتخاب می‌کنید؟"
+    },
+    {
+      "id": 453,
+      "word": "who",
+      "persian_translate": "کی",
+      "sentence": "Who is coming with us?",
+      "persian_sentence_translate": "کی با ما می‌آید؟"
+    },
+    {
+      "id": 454,
+      "word": "will",
+      "persian_translate": "خواهد",
+      "sentence": "The weather will be sunny tomorrow.",
+      "persian_sentence_translate": "فردا هوا آفتابی خواهد بود."
+    },
+    {
+      "id": 455,
+      "word": "with",
+      "persian_translate": "با",
+      "sentence": "I can't live with this noise.",
+      "persian_sentence_translate": "من نمی‌توانم با این سر و صدا زندگی کنم."
+    },
+    {
+      "id": 456,
+      "word": "would",
+      "persian_translate": "می‌خواهد",
+      "sentence": "I would rather stay home tonight.",
+      "persian_sentence_translate": "من ترجیح می‌دهم امشب در خانه بمانم."
+    },
+    {
+      "id": 457,
+      "word": "you",
+      "persian_translate": "شما",
+      "sentence": "I appreciate you taking the time.",
+      "persian_sentence_translate": "من قدردانی می‌کنم که وقت می‌گذارید."
+    },
+    {
+      "id": 458,
+      "word": "your",
+      "persian_translate": "مال شما",
+      "sentence": "Please take your coat.",
+      "persian_sentence_translate": "لطفاً کت خود را بردارید."
+    },
+    {
+      "id": 459,
+      "word": "zero",
+      "persian_translate": "صفر",
+      "sentence": "The temperature dropped to zero.",
+      "persian_sentence_translate": "دما به صفر رسید."
+    },
+    {
+      "id": 460,
+      "word": "one",
+      "persian_translate": "یک",
+      "sentence": "One of the apples is rotten.",
+      "persian_sentence_translate": "یکی از سیب‌ها گندیده است."
+    },
+    {
+      "id": 461,
+      "word": "two",
+      "persian_translate": "دو",
+      "sentence": "I have two tickets for the show.",
+      "persian_sentence_translate": "من دو بلیط برای نمایش دارم."
+    },
+    {
+      "id": 462,
+      "word": "three",
+      "persian_translate": "سه",
+      "sentence": "We waited for three hours.",
+      "persian_sentence_translate": "ما سه ساعت منتظر ماندیم."
+    },
+    {
+      "id": 463,
+      "word": "four",
+      "persian_translate": "چهار",
+      "sentence": "There are four chairs around the table.",
+      "persian_sentence_translate": "چهار صندلی دور میز وجود دارد."
+    },
+    {
+      "id": 464,
+      "word": "five",
+      "persian_translate": "پنج",
+      "sentence": "She has five cats.",
+      "persian_sentence_translate": "او پنج گربه دارد."
+    },
+    {
+      "id": 465,
+      "word": "six",
+      "persian_translate": "شش",
+      "sentence": "The baby is six months old.",
+      "persian_sentence_translate": "نوزاد شش ماهه است."
+    },
+    {
+      "id": 466,
+      "word": "seven",
+      "persian_translate": "هفت",
+      "sentence": "We finished the project in seven days.",
+      "persian_sentence_translate": "ما پروژه را در هفت روز تمام کردیم."
+    },
+    {
+      "id": 467,
+      "word": "eight",
+      "persian_translate": "هشت",
+      "sentence": "The movie starts at eight o'clock.",
+      "persian_sentence_translate": "فیلم ساعت هشت شروع می‌شود."
+    },
+    {
+      "id": 468,
+      "word": "nine",
+      "persian_translate": "نه",
+      "sentence": "There are nine players on the team.",
+      "persian_sentence_translate": "نه بازیکن در تیم وجود دارد."
+    },
+    {
+      "id": 469,
+      "word": "ten",
+      "persian_translate": "ده",
+      "sentence": "I scored ten points in the game.",
+      "persian_sentence_translate": "من ده امتیاز در بازی کسب کردم."
+    },
+    {
+      "id": 470,
+      "word": "hundred",
+      "persian_translate": "صد",
+      "sentence": "There are one hundred pages in the book.",
+      "persian_sentence_translate": "صد صفحه در کتاب وجود دارد."
+    },
+    {
+      "id": 471,
+      "word": "thousand",
+      "persian_translate": "هزار",
+      "sentence": "The population is over fifty thousand.",
+      "persian_sentence_translate": "جمعیت بیش از پنجاه هزار نفر است."
+    },
+    {
+      "id": 472,
+      "word": "million",
+      "persian_translate": "میلیون",
+      "sentence": "The company made a million dollars in profit.",
+      "persian_sentence_translate": "شرکت یک میلیون دلار سود کرد."
+    },
+    {
+      "id": 473,
+      "word": "billion",
+      "persian_translate": "میلیارد",
+      "sentence": "The government allocated billions for the project.",
+      "persian_sentence_translate": "دولت میلیاردها دلار برای این پروژه اختصاص داد."
+    },
+    {
+      "id": 474,
+      "word": "first",
+      "persian_translate": "اول",
+      "sentence": "This is my first time visiting.",
+      "persian_sentence_translate": "این اولین باری است که از اینجا بازدید می‌کنم."
+    },
+    {
+      "id": 475,
+      "word": "second",
+      "persian_translate": "دوم",
+      "sentence": "He finished the race in second place.",
+      "persian_sentence_translate": "او مسابقه را در جایگاه دوم به پایان رساند."
+    },
+    {
+      "id": 476,
+      "word": "third",
+      "persian_translate": "سوم",
+      "sentence": "She won the bronze medal in the third round.",
+      "persian_sentence_translate": "او در دور سوم مدال برنز را برد."
+    },
+    {
+      "id": 477,
+      "word": "fourth",
+      "persian_translate": "چهارم",
+      "sentence": "Today is the fourth day of the month.",
+      "persian_sentence_translate": "امروز چهارمین روز ماه است."
+    },
+    {
+      "id": 478,
+      "word": "fifth",
+      "persian_translate": "پنجم",
+      "sentence": "This is the fifth chapter of the book.",
+      "persian_sentence_translate": "این فصل پنجم کتاب است."
+    },
+    {
+      "id": 479,
+      "word": "sixth",
+      "persian_translate": "ششم",
+      "sentence": "The train leaves at six o'clock on the sixth of May.",
+      "persian_sentence_translate": "قطار در ششم ماه می ساعت شش حرکت می‌کند."
+    },
+    {
+      "id": 480,
+      "word": "seventh",
+      "persian_translate": "هفتم",
+      "sentence": "He lives on the seventh floor.",
+      "persian_sentence_translate": "او در طبقه هفتم زندگی می‌کند."
+    },
+    {
+      "id": 481,
+      "word": "eighth",
+      "persian_translate": "هشتم",
+      "sentence": "This is the eighth attempt to fix it.",
+      "persian_sentence_translate": "این هشتمین تلاش برای تعمیر آن است."
+    },
+    {
+      "id": 482,
+      "word": "ninth",
+      "persian_translate": "نهم",
+      "sentence": "The party is on the ninth of next month.",
+      "persian_sentence_translate": "جشن در نهم ماه آینده است."
+    },
+    {
+      "id": 483,
+      "word": "tenth",
+      "persian_translate": "دهم",
+      "sentence": "She is the tenth person in line.",
+      "persian_sentence_translate": "او نفر دهم در صف است."
+    },
+    {
+      "id": 484,
+      "word": "last",
+      "persian_translate": "آخرین",
+      "sentence": "This is the last piece of cake.",
+      "persian_sentence_translate": "این آخرین تکه کیک است."
+    },
+    {
+      "id": 485,
+      "word": "next",
+      "persian_translate": "بعدی",
+      "sentence": "What is the next item on the agenda?",
+      "persian_sentence_translate": "مورد بعدی در دستور کار چیست؟"
+    },
+    {
+      "id": 486,
+      "word": "early",
+      "persian_translate": "زود",
+      "sentence": "I woke up early this morning.",
+      "persian_sentence_translate": "من امروز صبح زود بیدار شدم."
+    },
+    {
+      "id": 487,
+      "word": "late",
+      "persian_translate": "دیر",
+      "sentence": "I am running late for my appointment.",
+      "persian_sentence_translate": "من برای قرارم دیر کرده‌ام."
+    },
+    {
+      "id": 488,
+      "word": "important",
+      "persian_translate": "مهم",
+      "sentence": "It is important to remember your password.",
+      "persian_sentence_translate": "مهم است که رمز عبور خود را به یاد داشته باشید."
+    },
+    {
+      "id": 489,
+      "word": "beautiful",
+      "persian_translate": "زیبا",
+      "sentence": "She has a beautiful voice.",
+      "persian_sentence_translate": "او صدای زیبایی دارد."
+    },
+    {
+      "id": 490,
+      "word": "certain",
+      "persian_translate": "مطمئن",
+      "sentence": "I am certain of my decision.",
+      "persian_sentence_translate": "من از تصمیمم مطمئن هستم."
+    },
+    {
+      "id": 491,
+      "word": "clear",
+      "persian_translate": "شفاف",
+      "sentence": "The instructions were perfectly clear.",
+      "persian_sentence_translate": "دستورالعمل‌ها کاملاً شفاف بودند."
+    },
+    {
+      "id": 492,
+      "word": "common",
+      "persian_translate": "مشترک",
+      "sentence": "This type of bird is common in the area.",
+      "persian_sentence_translate": "این نوع پرنده در این منطقه مشترک (رایج) است."
+    },
+    {
+      "id": 493,
+      "word": "difficult",
+      "persian_translate": "سخت",
+      "sentence": "Learning a new language is difficult.",
+      "persian_sentence_translate": "یادگیری یک زبان جدید سخت است."
+    },
+    {
+      "id": 494,
+      "word": "early",
+      "persian_translate": "زود",
+      "sentence": "Please come to the office early.",
+      "persian_sentence_translate": "لطفاً زود به اداره بیایید."
+    },
+    {
+      "id": 495,
+      "word": "economic",
+      "persian_translate": "اقتصادی",
+      "sentence": "The country is facing economic challenges.",
+      "persian_sentence_translate": "کشور با چالش‌های اقتصادی مواجه است."
+    },
+    {
+      "id": 496,
+      "word": "final",
+      "persian_translate": "نهایی",
+      "sentence": "This is our final offer.",
+      "persian_sentence_translate": "این پیشنهاد نهایی ما است."
+    },
+    {
+      "id": 497,
+      "word": "happy",
+      "persian_translate": "خوشحال",
+      "sentence": "We had a very happy vacation.",
+      "persian_sentence_translate": "ما یک تعطیلات بسیار خوشحال (شادی بخش) داشتیم."
+    },
+    {
+      "id": 498,
+      "word": "human",
+      "persian_translate": "انسانی",
+      "sentence": "It is a basic human right.",
+      "persian_sentence_translate": "این یک حق اساسی انسانی است."
+    },
+    {
+      "id": 499,
+      "word": "international",
+      "persian_translate": "بین المللی",
+      "sentence": "She works for an international organization.",
+      "persian_sentence_translate": "او برای یک سازمان بین المللی کار می‌کند."
+    },
+    {
+      "id": 500,
+      "word": "large",
+      "persian_translate": "بزرگ",
+      "sentence": "The museum has a large collection of paintings.",
+      "persian_sentence_translate": "موزه یک مجموعه بزرگ از نقاشی‌ها دارد."
+    },
+    {
+      "id": 501,
+      "word": "likely",
+      "persian_translate": "محتمل",
+      "sentence": "It is likely to rain later.",
+      "persian_sentence_translate": "محتمل است که بعداً باران ببارد."
+    },
+    {
+      "id": 502,
+      "word": "major",
+      "persian_translate": "عمده",
+      "sentence": "He had a major role in the success of the team.",
+      "persian_sentence_translate": "او یک نقش عمده در موفقیت تیم داشت."
+    },
+    {
+      "id": 503,
+      "word": "national",
+      "persian_translate": "ملی",
+      "sentence": "The national holiday is in July.",
+      "persian_sentence_translate": "تعطیلات ملی در ماه جولای است."
+    },
+    {
+      "id": 504,
+      "word": "possible",
+      "persian_translate": "ممکن",
+      "sentence": "It is possible that he missed the bus.",
+      "persian_sentence_translate": "ممکن است که او اتوبوس را از دست داده باشد."
+    }
+  ]
+}
